@@ -1,0 +1,4178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Support Furniture House (shared on wplocker.com)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sun May 29 2016 18:13:45 GMT+0700 (SE Asia Standard Time)\n"
+"PO-Revision-Date: Sun May 29 2016 18:14:10 GMT+0700 (SE Asia Standard Time)\n"
+"Last-Translator: admin <mr.cnguyen94@gmail.com>\n"
+"Language-Team: \n"
+"Language: Vietnamese\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: vi_VN\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Theme Support Furniture House (shared on wplocker.com)"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://themeforest.net/user/JollyThemes"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin is compatible with all jollythemes wordpress themes."
+msgstr ""
+
+#. Author of the plugin
+msgid "Shahbaz Ahmed"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://wow-themes.com"
+msgstr ""
+
+#: /includes/loader.php:107 /includes/loader.php:108
+msgid "Theme Options"
+msgstr "Cài đặt giao diện"
+
+#: /includes/loader.php:111 /includes/resource/settings.php:82
+msgid "Facebook"
+msgstr ""
+
+#: /includes/loader.php:111 /includes/resource/settings.php:89
+msgid "Twitter"
+msgstr ""
+
+#: /includes/loader.php:111
+msgid "Dribble"
+msgstr ""
+
+#: /includes/loader.php:111
+msgid "Github"
+msgstr ""
+
+#: /includes/loader.php:112
+msgid "Flickr"
+msgstr ""
+
+#: /includes/loader.php:112
+msgid "Google+"
+msgstr ""
+
+#: /includes/loader.php:112
+msgid "Youtube"
+msgstr ""
+
+#: /includes/loader.php:127
+msgid "Bloxo Shortcodes"
+msgstr ""
+
+#: /includes/loader.php:128
+msgid "Bloxo"
+msgstr ""
+
+#: /includes/vc_map.php:5
+msgid "bbPress Forums"
+msgstr ""
+
+#: /includes/vc_map.php:8
+msgid "Jollyall"
+msgstr ""
+
+#: /includes/vc_map.php:15
+msgid "Forum"
+msgstr ""
+
+#: /includes/vc_map.php:162
+msgid "Container"
+msgstr ""
+
+#: /includes/vc_map.php:165
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: /includes/helpers/ajax.php:33
+msgid "Please provide tiwtter api information to fetch feed"
+msgstr ""
+
+#: /includes/helpers/ajax.php:43
+msgid " ago"
+msgstr ""
+
+#: /includes/helpers/ajax.php:51
+msgid " about "
+msgstr ""
+
+#: /includes/helpers/ajax.php:67 /includes/resource/shortcodes-zo.php:533 
+#: /includes/resource/shortcodes-zo.php:600 /includes/resource/shortcodes-zo.php:
+#: 665 /includes/resource/shortcodes-zo.php:725 /includes/resource/shortcodes-zo.
+#: php:799 /includes/resource/shortcodes-zo.php:855 /includes/resource/shortcodes-
+#: zo.php:927 /includes/resource/shortcodes-zo.php:976 
+#: /includes/resource/shortcodes.php:43 /includes/resource/shortcodes.php:144 
+#: /includes/resource/shortcodes.php:206 /includes/resource/shortcodes.php:290 
+#: /includes/resource/shortcodes.php:409 /includes/resource/shortcodes.php:464 
+#: /includes/resource/shortcodes.php:535 /includes/resource/shortcodes.php:598 
+#: /includes/resource/shortcodes.php:653 /includes/resource/shortcodes.php:716 
+#: /includes/resource/shortcodes.php:841 /includes/resource/shortcodes.php:886 
+#: /includes/resource/shortcodes.php:951 /includes/resource/shortcodes.php:1014 
+#: /includes/resource/shortcodes.php:1069 /includes/resource/shortcodes.php:1141 
+#: /includes/resource/shortcodes.php:1226 /includes/resource/shortcodes.php:1448 
+#: /includes/resource/shortcodes.php:1752 /includes/resource/shortcodes.php:1815 
+#: /includes/resource/shortcodes.php:1873 /includes/resource/shortcodes.php:2015 
+#: /includes/resource/shortcodes.php:2092 /includes/resource/shortcodes.php:2169
+msgid "Name"
+msgstr ""
+
+#: /includes/helpers/ajax.php:70 /includes/helpers/ajax.php:145 
+#: /includes/library/widgets.php:453 /includes/library/widgets.php:478 
+#: /includes/resource/shortcodes.php:2257
+msgid "Email"
+msgstr ""
+
+#: /includes/helpers/ajax.php:73
+msgid "Subject"
+msgstr ""
+
+#: /includes/helpers/ajax.php:75 /includes/helpers/ajax.php:146
+msgid "Message"
+msgstr ""
+
+#: /includes/helpers/ajax.php:88
+msgid "Invalid captcha entered, please try again."
+msgstr ""
+
+#: /includes/helpers/ajax.php:98
+msgid "Contact Name:	"
+msgstr ""
+
+#: /includes/helpers/ajax.php:100
+msgid "Contact Subject:	"
+msgstr ""
+
+#: /includes/helpers/ajax.php:107
+#, php-format
+msgid "Contact Us Message from %s"
+msgstr ""
+
+#: /includes/helpers/ajax.php:111
+msgid "Email Sent Successfully."
+msgstr ""
+
+#: /includes/helpers/ajax.php:112
+#, php-format
+msgid "Thank you <strong>%s</strong>, your message has been submitted to us."
+msgstr ""
+
+#: /includes/helpers/ajax.php:124 /includes/helpers/ajax.php:173 
+#: /includes/helpers/forms.php:281
+msgid "Error! "
+msgstr ""
+
+#: /includes/helpers/ajax.php:158
+#, php-format
+msgid "Product referal Message from %s"
+msgstr ""
+
+#: /includes/helpers/ajax.php:163
+msgid "You message successfully delivered"
+msgstr ""
+
+#: /includes/helpers/ajax.php:193
+msgid "You have already added this product to wish list"
+msgstr ""
+
+#: /includes/helpers/ajax.php:197
+msgid "Product successfully added to wishlist"
+msgstr ""
+
+#: /includes/helpers/ajax.php:199
+msgid "There is an error edding wishlist"
+msgstr ""
+
+#: /includes/helpers/ajax.php:202
+msgid "Please login first to add the product to your wishlist"
+msgstr ""
+
+#: /includes/helpers/ajax.php:219
+msgid "Product is successfully deleted from wishlist"
+msgstr ""
+
+#: /includes/helpers/ajax.php:220
+msgid "Unable to find this product into wishlist"
+msgstr ""
+
+#: /includes/helpers/ajax.php:223
+msgid "Unable to retrieve your wishlist"
+msgstr ""
+
+#: /includes/helpers/ajax.php:226
+msgid "Please login first to add/delete product in your wishlist"
+msgstr ""
+
+#: /includes/helpers/ajax.php:241
+msgid "You have already added this product to compare list"
+msgstr ""
+
+#: /includes/helpers/ajax.php:245
+msgid "Product successfully added to compare list"
+msgstr ""
+
+#: /includes/helpers/ajax.php:247
+msgid "There is an error edding compare list"
+msgstr ""
+
+#: /includes/helpers/ajax.php:250
+msgid "Please login first to add the product to your compare list"
+msgstr ""
+
+#: /includes/helpers/ajax.php:267
+msgid "Product is successfully deleted from compare list"
+msgstr ""
+
+#: /includes/helpers/ajax.php:268
+msgid "Unable to find this product into compare list"
+msgstr ""
+
+#: /includes/helpers/ajax.php:271
+msgid "Unable to retrieve your compare list"
+msgstr ""
+
+#: /includes/helpers/ajax.php:274
+msgid "Please login first to add/delete product in your compare list"
+msgstr ""
+
+#: /includes/helpers/backup_class.php:281
+#, php-format
+msgid ""
+"System is not able to create backup directory, please create a directory "
+"named \"backup\" in \"%s\" manually and give it 0777 write permission."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A custom WordPress nav walker class to implement the Bootstrap 3 navigation "
+"style in a custom theme using the WordPress built in menu manager."
+msgstr ""
+
+#. Author of the plugin
+msgid "Edward McIntyre - @twittem"
+msgstr ""
+
+#: /includes/helpers/forms.php:60
+msgid "Send"
+msgstr ""
+
+#: /includes/helpers/forms.php:131
+msgid "UPLOAD"
+msgstr ""
+
+#: /includes/helpers/forms.php:250
+msgid "There is form validation error or spamming issue"
+msgstr ""
+
+#: /includes/helpers/forms.php:259
+#, php-format
+msgid "%s - Form Submitted"
+msgstr ""
+
+#: /includes/helpers/forms.php:261
+msgid "Form is successfully submitted, we'll response you shortly."
+msgstr ""
+
+#: /includes/helpers/forms.php:264 /includes/vafpress/bootstrap.php:83 
+#: /includes/vafpress/classes/option.php:356 /includes/vafpress/classes/option.
+#: php:381
+msgid "Successful"
+msgstr ""
+
+#: /includes/helpers/meta_boxes.php:30
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: /includes/helpers/post_types.php:31
+msgctxt "Slides"
+msgid "Slides"
+msgstr ""
+
+#: /includes/helpers/post_types.php:33
+msgctxt "Slide"
+msgid "Slide"
+msgstr ""
+
+#: /includes/helpers/post_types.php:35
+msgid "Slidr"
+msgstr ""
+
+#: /includes/helpers/post_types.php:37
+msgid "Parent Slide:"
+msgstr ""
+
+#: /includes/helpers/post_types.php:39
+msgid "All Slides"
+msgstr ""
+
+#: /includes/helpers/post_types.php:41
+msgid "View Slide"
+msgstr ""
+
+#: /includes/helpers/post_types.php:43
+msgid "Add New Slide"
+msgstr ""
+
+#: /includes/helpers/post_types.php:45
+msgid "New Slide"
+msgstr ""
+
+#: /includes/helpers/post_types.php:47
+msgid "Edit Slide"
+msgstr ""
+
+#: /includes/helpers/post_types.php:49
+msgid "Update Slide"
+msgstr ""
+
+#: /includes/helpers/post_types.php:51
+msgid "Search Slides"
+msgstr ""
+
+#: /includes/helpers/post_types.php:53
+msgid "No Slides found"
+msgstr ""
+
+#: /includes/helpers/post_types.php:55
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: /includes/helpers/post_types.php:83
+msgid "bistro_slider"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:28
+msgctxt "Catalog Category"
+msgid "Category"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:29 /includes/helpers/taxonomies.php:65 
+#: /includes/helpers/taxonomies.php:103 /includes/helpers/taxonomies.php:140 
+#: /includes/helpers/taxonomies.php:176
+msgctxt "Category"
+msgid "Category"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:30 /includes/helpers/taxonomies.php:66 
+#: /includes/helpers/taxonomies.php:104 /includes/helpers/taxonomies.php:141 
+#: /includes/helpers/taxonomies.php:177 /includes/library/widgets.php:549 
+#: /includes/resource/shortcodes-zo.php:522 /includes/resource/shortcodes-zo.php:
+#: 589 /includes/resource/shortcodes-zo.php:654 /includes/resource/shortcodes-zo.
+#: php:714 /includes/resource/shortcodes-zo.php:788 /includes/resource/shortcodes-
+#: zo.php:844 /includes/resource/shortcodes-zo.php:916 
+#: /includes/resource/shortcodes-zo.php:965 /includes/resource/shortcodes.php:32 
+#: /includes/resource/shortcodes.php:133 /includes/resource/shortcodes.php:279 
+#: /includes/resource/shortcodes.php:398 /includes/resource/shortcodes.php:453 
+#: /includes/resource/shortcodes.php:524 /includes/resource/shortcodes.php:587 
+#: /includes/resource/shortcodes.php:642 /includes/resource/shortcodes.php:705 
+#: /includes/resource/shortcodes.php:830 /includes/resource/shortcodes.php:940 
+#: /includes/resource/shortcodes.php:1003 /includes/resource/shortcodes.php:1058 
+#: /includes/resource/shortcodes.php:1130 /includes/resource/shortcodes.php:1215 
+#: /includes/resource/shortcodes.php:1437 /includes/resource/shortcodes.php:1804 
+#: /includes/resource/shortcodes.php:1862 /includes/resource/shortcodes.php:2004 
+#: /includes/resource/shortcodes.php:2081 /includes/resource/shortcodes.php:2158
+msgid "Category"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:31 /includes/helpers/taxonomies.php:67 
+#: /includes/helpers/taxonomies.php:105 /includes/helpers/taxonomies.php:142 
+#: /includes/helpers/taxonomies.php:178 /includes/library/widgets.php:550
+msgid "All Categories"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:32 /includes/helpers/taxonomies.php:68 
+#: /includes/helpers/taxonomies.php:106 /includes/helpers/taxonomies.php:143 
+#: /includes/helpers/taxonomies.php:179
+msgid "Parent Category"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:33 /includes/helpers/taxonomies.php:69 
+#: /includes/helpers/taxonomies.php:107 /includes/helpers/taxonomies.php:144 
+#: /includes/helpers/taxonomies.php:180
+msgid "Parent Category:"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:34 /includes/helpers/taxonomies.php:70 
+#: /includes/helpers/taxonomies.php:108 /includes/helpers/taxonomies.php:145 
+#: /includes/helpers/taxonomies.php:181
+msgid "New Category Name"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:35 /includes/helpers/taxonomies.php:71 
+#: /includes/helpers/taxonomies.php:109 /includes/helpers/taxonomies.php:146 
+#: /includes/helpers/taxonomies.php:182
+msgid "Add New Category"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:36 /includes/helpers/taxonomies.php:72 
+#: /includes/helpers/taxonomies.php:110 /includes/helpers/taxonomies.php:147 
+#: /includes/helpers/taxonomies.php:183
+msgid "Edit Category"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:37 /includes/helpers/taxonomies.php:73 
+#: /includes/helpers/taxonomies.php:111 /includes/helpers/taxonomies.php:148 
+#: /includes/helpers/taxonomies.php:184
+msgid "Update Category"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:38 /includes/helpers/taxonomies.php:74 
+#: /includes/helpers/taxonomies.php:112 /includes/helpers/taxonomies.php:149 
+#: /includes/helpers/taxonomies.php:185
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:39 /includes/helpers/taxonomies.php:75 
+#: /includes/helpers/taxonomies.php:113 /includes/helpers/taxonomies.php:150 
+#: /includes/helpers/taxonomies.php:186
+msgid "Search Categories"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:40 /includes/helpers/taxonomies.php:76 
+#: /includes/helpers/taxonomies.php:114 /includes/helpers/taxonomies.php:151 
+#: /includes/helpers/taxonomies.php:187
+msgid "Add or remove Categories"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:41 /includes/helpers/taxonomies.php:77 
+#: /includes/helpers/taxonomies.php:115 /includes/helpers/taxonomies.php:152 
+#: /includes/helpers/taxonomies.php:188
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:64
+msgctxt "History Category"
+msgid "Category"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:102
+msgctxt "Testimonial Category"
+msgid "Category"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:139
+msgctxt "Team Category"
+msgid "Category"
+msgstr ""
+
+#: /includes/helpers/taxonomies.php:175
+msgctxt "Service Category"
+msgid "Category"
+msgstr ""
+
+#: /includes/helpers/validation.php:296
+msgid "Unable to find validation rules"
+msgstr ""
+
+#: /includes/helpers/validation.php:498
+msgid "The field was not set"
+msgstr ""
+
+#: /includes/helpers/validation.php:640
+msgid "Unable to access an error message corresponding to your field name."
+msgstr ""
+
+#: /includes/helpers/validation.php:1279
+#, php-format
+msgid "The %s field is required."
+msgstr ""
+
+#: /includes/helpers/validation.php:1280
+#, php-format
+msgid "The %s field must have a value."
+msgstr ""
+
+#: /includes/helpers/validation.php:1281
+#, php-format
+msgid "The %s field must contain a valid email address."
+msgstr ""
+
+#: /includes/helpers/validation.php:1282
+#, php-format
+msgid "The %s field must contain all valid email addresses."
+msgstr ""
+
+#: /includes/helpers/validation.php:1283
+#, php-format
+msgid "The %s field must contain a valid URL."
+msgstr ""
+
+#: /includes/helpers/validation.php:1284
+#, php-format
+msgid "The %s field must contain a valid IP."
+msgstr ""
+
+#: /includes/helpers/validation.php:1285
+#, php-format
+msgid "The %s field must be at least %s characters in length."
+msgstr ""
+
+#: /includes/helpers/validation.php:1286
+#, php-format
+msgid "The %s field can not exceed %s characters in length."
+msgstr ""
+
+#: /includes/helpers/validation.php:1287
+#, php-format
+msgid "The %s field must be exactly %s characters in length."
+msgstr ""
+
+#: /includes/helpers/validation.php:1288
+#, php-format
+msgid "The %s field may only contain alphabetical characters."
+msgstr ""
+
+#: /includes/helpers/validation.php:1289
+#, php-format
+msgid "The %s field may only contain alph-space characters."
+msgstr ""
+
+#: /includes/helpers/validation.php:1290
+#, php-format
+msgid "The %s field may only contain alpha-numeric characters."
+msgstr ""
+
+#: /includes/helpers/validation.php:1291
+#, php-format
+msgid ""
+"The %s field may only contain alpha-numeric characters, underscores, and "
+"dashes."
+msgstr ""
+
+#: /includes/helpers/validation.php:1292
+#, php-format
+msgid "The %s field must contain only numbers."
+msgstr ""
+
+#: /includes/helpers/validation.php:1293
+#, php-format
+msgid "The %s field must contain only numeric characters."
+msgstr ""
+
+#: /includes/helpers/validation.php:1294
+#, php-format
+msgid "The %s field must contain an integer."
+msgstr ""
+
+#: /includes/helpers/validation.php:1295
+#, php-format
+msgid "The %s field is not in the correct format."
+msgstr ""
+
+#: /includes/helpers/validation.php:1296
+#, php-format
+msgid "The %s field does not match the %s field."
+msgstr ""
+
+#: /includes/helpers/validation.php:1297
+#, php-format
+msgid "The %s field must contain only positive numbers."
+msgstr ""
+
+#: /includes/helpers/validation.php:1298
+#, php-format
+msgid "The %s field must contain a number greater than zero."
+msgstr ""
+
+#: /includes/helpers/validation.php:1299
+#, php-format
+msgid "The %s field must contain a decimal number."
+msgstr ""
+
+#: /includes/helpers/validation.php:1300
+#, php-format
+msgid "The %s field must contain a number less than %s."
+msgstr ""
+
+#: /includes/helpers/validation.php:1301
+#, php-format
+msgid "The %s field must contain a number greater than %s."
+msgstr ""
+
+#: /includes/helpers/validation.php:1302
+#, php-format
+msgid "The %s field must contain a file extension %s."
+msgstr ""
+
+#: /includes/helpers/walker.php:1169
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: /includes/helpers/walker.php:1177
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: /includes/helpers/walker.php:1207
+msgid "Move up"
+msgstr ""
+
+#: /includes/helpers/walker.php:1215
+msgid "Move down"
+msgstr ""
+
+#: /includes/helpers/walker.php:1219 /includes/helpers/walker.php:1223
+msgid "Edit Menu Item"
+msgstr ""
+
+#: /includes/helpers/walker.php:1241
+msgid "URL"
+msgstr ""
+
+#: /includes/helpers/walker.php:1255
+msgid "Navigation Label"
+msgstr ""
+
+#: /includes/helpers/walker.php:1267
+msgid "Title Attribute"
+msgstr ""
+
+#: /includes/helpers/walker.php:1281
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: /includes/helpers/walker.php:1291
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: /includes/helpers/walker.php:1303
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: /includes/helpers/walker.php:1315
+msgid "Description"
+msgstr ""
+
+#: /includes/helpers/walker.php:1323
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: /includes/helpers/walker.php:1341
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: /includes/helpers/walker.php:1351 /includes/vafpress/classes/metabox.php:564 
+#: /includes/vafpress/classes/metabox.php:564 
+#: /includes/vafpress/classes/metabox/alchemy.php:493 
+#: /includes/vafpress/classes/metabox/alchemy.php:493 /includes/vp_new/taxonomy.
+#: php:569 /includes/vp_new/taxonomy.php:569 /includes/vp_new/classes/alchemy.php:
+#: 985 /includes/vp_new/classes/alchemy.php:985
+msgid "Remove"
+msgstr ""
+
+#: /includes/helpers/walker.php:1351
+msgid "Cancel"
+msgstr ""
+
+#: /includes/library/functions.php:41
+msgid "No Icon"
+msgstr ""
+
+#. Name
+#: /includes/library/widgets.php:8
+msgid "Preshop News Letter"
+msgstr ""
+
+#: /includes/library/widgets.php:8
+msgid "News Letter"
+msgstr ""
+
+#: /includes/library/widgets.php:22
+msgid "Subscribe to Newsletter"
+msgstr ""
+
+#: /includes/library/widgets.php:23
+msgid "Enter your email"
+msgstr ""
+
+#: /includes/library/widgets.php:27
+msgid "GO"
+msgstr ""
+
+#: /includes/library/widgets.php:46
+msgid "Subscribe"
+msgstr ""
+
+#: /includes/library/widgets.php:51 /includes/library/widgets.php:309 
+#: /includes/library/widgets.php:391 /includes/library/widgets.php:437 
+#: /includes/library/widgets.php:482
+msgid "Title:"
+msgstr ""
+
+#: /includes/library/widgets.php:55
+msgid "Feedburner ID:"
+msgstr ""
+
+#: /includes/library/widgets.php:59
+msgid "Text :"
+msgstr ""
+
+#. Name
+#: /includes/library/widgets.php:72
+msgid "Preshop Social Media"
+msgstr ""
+
+#: /includes/library/widgets.php:72 /includes/resource/shortcodes.php:1156 
+#: /includes/vafpress/admin/option/option.php:650
+msgid "Social Media"
+msgstr ""
+
+#: /includes/library/widgets.php:124
+msgid "Facebook:"
+msgstr ""
+
+#: /includes/library/widgets.php:128
+msgid "Twitter:"
+msgstr ""
+
+#: /includes/library/widgets.php:132
+msgid "Google Plus:"
+msgstr ""
+
+#: /includes/library/widgets.php:136
+msgid "Pinterest:"
+msgstr ""
+
+#: /includes/library/widgets.php:140
+msgid "Youtube:"
+msgstr ""
+
+#: /includes/library/widgets.php:144
+msgid "Yelp:"
+msgstr ""
+
+#: /includes/library/widgets.php:148
+msgid "Blogger:"
+msgstr ""
+
+#: /includes/library/widgets.php:152
+msgid "Deviantart:"
+msgstr ""
+
+#. Name
+#: /includes/library/widgets.php:165
+msgid "Preshop Accounts For Payment"
+msgstr ""
+
+#: /includes/library/widgets.php:165
+msgid "Preshop Account"
+msgstr ""
+
+#: /includes/library/widgets.php:222
+msgid "Paypal:"
+msgstr ""
+
+#: /includes/library/widgets.php:227
+msgid "Visa:"
+msgstr ""
+
+#: /includes/library/widgets.php:232
+msgid "Mastercard:"
+msgstr ""
+
+#: /includes/library/widgets.php:237
+msgid "Stripe:"
+msgstr ""
+
+#: /includes/library/widgets.php:242
+msgid "Amex:"
+msgstr ""
+
+#. Name
+#: /includes/library/widgets.php:254
+msgid "Pretty Social Profile"
+msgstr ""
+
+#: /includes/library/widgets.php:254 /includes/vafpress/admin/metabox/meta_boxes.
+#: php:192
+msgid "Social Profile"
+msgstr ""
+
+#: /includes/library/widgets.php:265
+msgid "Women Shoes "
+msgstr ""
+
+#: /includes/library/widgets.php:266
+msgid "Special Offers "
+msgstr ""
+
+#: /includes/library/widgets.php:267
+msgid "Shopping Mall "
+msgstr ""
+
+#: /includes/library/widgets.php:268
+msgid "Guess You Like "
+msgstr ""
+
+#: /includes/library/widgets.php:269
+msgid "Warehouse "
+msgstr ""
+
+#: /includes/library/widgets.php:296
+msgid "Social Profiles"
+msgstr ""
+
+#: /includes/library/widgets.php:313
+msgid "Facebook URL:"
+msgstr ""
+
+#: /includes/library/widgets.php:317
+msgid "Facebook Number:"
+msgstr ""
+
+#: /includes/library/widgets.php:321
+msgid "Twitter URL:"
+msgstr ""
+
+#: /includes/library/widgets.php:325
+msgid "Twitter Number:"
+msgstr ""
+
+#: /includes/library/widgets.php:329
+msgid "Google Plus URL:"
+msgstr ""
+
+#: /includes/library/widgets.php:333
+msgid "Google Plus Number:"
+msgstr ""
+
+#: /includes/library/widgets.php:337
+msgid "Instagram URL:"
+msgstr ""
+
+#: /includes/library/widgets.php:341
+msgid "Instagram Number:"
+msgstr ""
+
+#: /includes/library/widgets.php:345
+msgid "Pinterest URL:"
+msgstr ""
+
+#: /includes/library/widgets.php:349
+msgid "Pinterest Number:"
+msgstr ""
+
+#. Name
+#: /includes/library/widgets.php:361
+msgid "Preshop Contact Number"
+msgstr ""
+
+#: /includes/library/widgets.php:361
+msgid "contact number"
+msgstr ""
+
+#: /includes/library/widgets.php:387
+msgid "Telephone"
+msgstr ""
+
+#: /includes/library/widgets.php:395
+msgid "Contact Number:"
+msgstr ""
+
+#. Name
+#: /includes/library/widgets.php:407
+msgid "Preshop Address"
+msgstr ""
+
+#: /includes/library/widgets.php:407 /includes/library/widgets.php:432 
+#: /includes/resource/shortcodes.php:2241
+msgid "Address"
+msgstr ""
+
+#: /includes/library/widgets.php:441
+msgid "Address:"
+msgstr ""
+
+#. Name
+#: /includes/library/widgets.php:453
+msgid "Preshop email"
+msgstr ""
+
+#: /includes/library/widgets.php:487
+msgid "Email:"
+msgstr ""
+
+#. Name
+#: /includes/library/widgets.php:499
+msgid "Preshop New Items "
+msgstr ""
+
+#: /includes/library/widgets.php:499
+msgid "New items with images"
+msgstr ""
+
+#: /includes/library/widgets.php:535
+msgid "Recent Posts"
+msgstr ""
+
+#: /includes/library/widgets.php:540
+msgid "Title: "
+msgstr ""
+
+#: /includes/library/widgets.php:544
+msgid "No. of Posts:"
+msgstr ""
+
+#: /includes/library/widgets.php:577
+msgid "View Item"
+msgstr ""
+
+#: /includes/modules/header/header-grid.php:99 /includes/modules/header/header-
+#: side.php:72
+msgid "Click to read"
+msgstr ""
+
+#: /includes/modules/header/header-grid.php:99 /includes/modules/header/header-
+#: side.php:72
+msgid "Trigger"
+msgstr ""
+
+#: /includes/modules/header/header-normal.php:52
+msgid "Toggle navigation"
+msgstr ""
+
+#: /includes/modules/shortcodes/contact.php:26
+msgid "Your name"
+msgstr ""
+
+#: /includes/modules/shortcodes/contact.php:27
+msgid "Your website"
+msgstr ""
+
+#: /includes/modules/shortcodes/contact.php:28
+msgid "Your email"
+msgstr ""
+
+#: /includes/modules/shortcodes/contact.php:29
+msgid "How can I help?"
+msgstr ""
+
+#: /includes/modules/shortcodes/contact.php:30
+msgid "Message goes here..."
+msgstr ""
+
+#: /includes/modules/shortcodes/contact.php:31
+msgid "Send Message"
+msgstr ""
+
+#: /includes/resource/post_types.php:22 /includes/resource/post_types.php:22 
+#: /includes/resource/post_types.php:30
+msgid "Member"
+msgstr ""
+
+#: /includes/resource/post_types.php:26 /includes/resource/shortcodes-zo.php:552
+msgid "Teams"
+msgstr ""
+
+#: /includes/resource/post_types.php:43 /includes/resource/post_types.php:43 
+#: /includes/resource/post_types.php:51
+msgid "Service"
+msgstr ""
+
+#: /includes/resource/post_types.php:47 /includes/resource/shortcodes-zo.php:465 
+#: /includes/resource/shortcodes.php:4
+msgid "Services"
+msgstr ""
+
+#: /includes/resource/post_types.php:64 /includes/resource/post_types.php:64 
+#: /includes/resource/post_types.php:72
+msgid "Testimonial"
+msgstr ""
+
+#: /includes/resource/post_types.php:68 /includes/resource/shortcodes.php:354
+msgid "Testimonials"
+msgstr ""
+
+#: /includes/resource/post_types.php:88 /includes/resource/post_types.php:88 
+#: /includes/resource/post_types.php:92 /includes/resource/post_types.php:96 
+#: /includes/resource/shortcodes.php:1195
+msgid "Catalog"
+msgstr ""
+
+#: /includes/resource/post_types.php:110 /includes/resource/post_types.php:110 
+#: /includes/resource/post_types.php:114 /includes/resource/post_types.php:118 
+#: /includes/resource/shortcodes.php:1730
+msgid "History"
+msgstr ""
+
+#: /includes/resource/settings.php:8 /includes/resource/settings.php:16 
+#: /includes/resource/settings.php:34 /includes/resource/settings.php:67 
+#: /includes/vafpress/admin/metabox/meta_boxes.php:76 
+#: /includes/vafpress/admin/option/option.php:430 
+#: /includes/vafpress/admin/option/option.php:497 
+#: /includes/vafpress/admin/option/option.php:567 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:109 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:163
+msgid "Sidebar"
+msgstr ""
+
+#: /includes/resource/settings.php:9 /includes/resource/settings.php:17 
+#: /includes/resource/settings.php:68
+msgid "Choose an sidebar for this deal"
+msgstr ""
+
+#: /includes/resource/settings.php:25
+msgid "Choos Font Awesome Icon"
+msgstr ""
+
+#: /includes/resource/settings.php:26
+msgid "Choose an icon fron the font icons list"
+msgstr ""
+
+#: /includes/resource/settings.php:35
+msgid "Choose an sidebar for this service"
+msgstr ""
+
+#: /includes/resource/settings.php:43
+msgid "Start Date"
+msgstr ""
+
+#: /includes/resource/settings.php:44
+msgid "Choose start date of the deal"
+msgstr ""
+
+#: /includes/resource/settings.php:50
+msgid "End Date"
+msgstr ""
+
+#: /includes/resource/settings.php:51
+msgid "Choose end date of the deal"
+msgstr ""
+
+#: /includes/resource/settings.php:57
+msgid "Select Product"
+msgstr ""
+
+#: /includes/resource/settings.php:59
+msgid "Choose the products for this deal"
+msgstr ""
+
+#: /includes/resource/settings.php:74 /includes/vafpress/admin/metabox/meta_boxes.
+#: php:184 /includes/vafpress/admin/metabox/meta_boxes.php:225
+msgid "Designation"
+msgstr ""
+
+#: /includes/resource/settings.php:76
+msgid "Enter the designation of the member"
+msgstr ""
+
+#: /includes/resource/settings.php:84
+msgid "Enter the facebook url"
+msgstr ""
+
+#: /includes/resource/settings.php:91
+msgid "Enter the twitter url"
+msgstr ""
+
+#: /includes/resource/settings.php:96
+msgid "Google Plus"
+msgstr ""
+
+#: /includes/resource/settings.php:98
+msgid "Enter the google Plus url"
+msgstr ""
+
+#: /includes/resource/settings.php:103
+msgid "Project URL"
+msgstr ""
+
+#: /includes/resource/settings.php:105
+msgid "Enter the project url"
+msgstr ""
+
+#: /includes/resource/settings.php:111
+msgid "Videos URL"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:4 /includes/resource/shortcodes.php:1888
+msgid "Call Out"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:7 /includes/resource/shortcodes-zo.php:59 
+#: /includes/resource/shortcodes-zo.php:119 /includes/resource/shortcodes-zo.php:
+#: 180 /includes/resource/shortcodes-zo.php:220 /includes/resource/shortcodes-zo.
+#: php:285 /includes/resource/shortcodes-zo.php:361 /includes/resource/shortcodes-
+#: zo.php:430 /includes/resource/shortcodes-zo.php:468 
+#: /includes/resource/shortcodes-zo.php:555 /includes/resource/shortcodes-zo.php:
+#: 622 /includes/resource/shortcodes-zo.php:690 /includes/resource/shortcodes-zo.
+#: php:748 /includes/resource/shortcodes-zo.php:820 /includes/resource/shortcodes-
+#: zo.php:892 /includes/resource/shortcodes-zo.php:949 
+#: /includes/resource/shortcodes-zo.php:998 /includes/resource/shortcodes-zo.php:
+#: 1021
+msgid "Preshop"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:9 /includes/resource/shortcodes.php:1893
+msgid "show the call out banner."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:15 /includes/resource/shortcodes-zo.php:
+#: 293 /includes/resource/shortcodes-zo.php:369
+msgid "Image Link"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:18 /includes/resource/shortcodes-zo.php:
+#: 296 /includes/resource/shortcodes-zo.php:372 /includes/resource/shortcodes.php:
+#: 1929
+msgid "Enter the Image Link"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:24 /includes/resource/shortcodes-zo.php:
+#: 320 /includes/resource/shortcodes-zo.php:415 /includes/resource/shortcodes.php:
+#: 1935 /includes/resource/shortcodes.php:2120 /includes/resource/shortcodes.php:
+#: 2212 /includes/vafpress/admin/metabox/meta_boxes.php:329 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:47
+msgid "Image"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:27 /includes/resource/shortcodes-zo.php:
+#: 323 /includes/resource/shortcodes-zo.php:418 /includes/resource/shortcodes.php:
+#: 90 /includes/resource/shortcodes.php:786 /includes/resource/shortcodes.php:
+#: 1938 /includes/resource/shortcodes.php:2123 /includes/resource/shortcodes.php:
+#: 2215
+msgid "Enter the Image url"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:33 /includes/resource/shortcodes-zo.php:
+#: 302 /includes/resource/shortcodes-zo.php:397 /includes/resource/shortcodes.php:
+#: 1944
+msgid "Image Title"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:36 /includes/resource/shortcodes-zo.php:
+#: 305 /includes/resource/shortcodes-zo.php:400 /includes/resource/shortcodes.php:
+#: 1947
+msgid "Enter the Image Title"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:42
+msgid " Background Color Check"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:44 /includes/resource/shortcodes-zo.php:
+#: 478 /includes/resource/shortcodes-zo.php:487
+msgid "None"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:44
+msgid "Black"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:44
+msgid "Orange"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:45
+msgid "Select the background image color."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:56
+msgid "Pricing tables"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:61
+msgid "show the pricing list."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:69 /includes/resource/shortcodes-zo.php:129
+msgid "Price Heading"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:72 /includes/resource/shortcodes-zo.php:132
+msgid "Enter the price heading"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:78 /includes/resource/shortcodes-zo.php:
+#: 138 /includes/resource/shortcodes.php:1561
+msgid "Price"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:81 /includes/resource/shortcodes-zo.php:141
+msgid "Enter the price"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:87 /includes/resource/shortcodes-zo.php:
+#: 147 /includes/resource/shortcodes.php:1577
+msgid "Features"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:89 /includes/resource/shortcodes-zo.php:149
+msgid "Enter One Feature per Line"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:96 /includes/resource/shortcodes-zo.php:
+#: 99 /includes/resource/shortcodes-zo.php:156 /includes/resource/shortcodes-zo.
+#: php:159
+msgid "Enter the button name"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:105 /includes/resource/shortcodes-zo.php:
+#: 166
+msgid "Button link"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:108 /includes/resource/shortcodes-zo.php:
+#: 169
+msgid "Enter the button link"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:116
+msgid "Parchase Lists"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:121
+msgid "show the parchase list."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:177 /includes/resource/shortcodes-zo.php:
+#: 427
+msgid "parallex"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:181 /includes/resource/shortcodes-zo.php:
+#: 431
+msgid "show the Parallex banner."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:187 /includes/resource/shortcodes-zo.php:
+#: 227 /includes/resource/shortcodes-zo.php:437
+msgid "Msg Title"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:190 /includes/resource/shortcodes-zo.php:
+#: 230 /includes/resource/shortcodes-zo.php:239 /includes/resource/shortcodes-zo.
+#: php:248 /includes/resource/shortcodes-zo.php:440
+msgid "Enter the message title"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:196 /includes/resource/shortcodes-zo.php:
+#: 263 /includes/resource/shortcodes-zo.php:446
+msgid "background image"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:198 /includes/resource/shortcodes-zo.php:
+#: 265 /includes/resource/shortcodes-zo.php:448
+msgid "Enter the  background image"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:204 /includes/resource/shortcodes-zo.php:
+#: 271 /includes/resource/shortcodes-zo.php:454 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:54 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:106
+msgid "Short html Text"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:207 /includes/resource/shortcodes-zo.php:
+#: 274 /includes/resource/shortcodes-zo.php:457 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:55 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:107
+msgid "Enter content, you can use html tags"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:217
+msgid "parallex2"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:221
+msgid "show the Parallex 2 banner."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:236
+msgid "Button Link Title Attribute"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:245 /includes/resource/shortcodes-zo.php:
+#: 494 /includes/resource/shortcodes-zo.php:533 /includes/resource/shortcodes-zo.
+#: php:563 /includes/resource/shortcodes-zo.php:600 /includes/resource/shortcodes-
+#: zo.php:638 /includes/resource/shortcodes-zo.php:665 
+#: /includes/resource/shortcodes-zo.php:725 /includes/resource/shortcodes-zo.php:
+#: 756 /includes/resource/shortcodes-zo.php:799 /includes/resource/shortcodes-zo.
+#: php:828 /includes/resource/shortcodes-zo.php:855 /includes/resource/shortcodes-
+#: zo.php:927 /includes/resource/shortcodes-zo.php:976 
+#: /includes/resource/shortcodes-zo.php:1032 /includes/resource/shortcodes.php:43 
+#: /includes/resource/shortcodes.php:69 /includes/resource/shortcodes.php:109 
+#: /includes/resource/shortcodes.php:144 /includes/resource/shortcodes.php:255 
+#: /includes/resource/shortcodes.php:290 /includes/resource/shortcodes.php:326 
+#: /includes/resource/shortcodes.php:365 /includes/resource/shortcodes.php:409 
+#: /includes/resource/shortcodes.php:464 /includes/resource/shortcodes.php:491 
+#: /includes/resource/shortcodes.php:535 /includes/resource/shortcodes.php:563 
+#: /includes/resource/shortcodes.php:598 /includes/resource/shortcodes.php:626 
+#: /includes/resource/shortcodes.php:653 /includes/resource/shortcodes.php:680 
+#: /includes/resource/shortcodes.php:716 /includes/resource/shortcodes.php:743 
+#: /includes/resource/shortcodes.php:814 /includes/resource/shortcodes.php:841 
+#: /includes/resource/shortcodes.php:924 /includes/resource/shortcodes.php:951 
+#: /includes/resource/shortcodes.php:978 /includes/resource/shortcodes.php:1014 
+#: /includes/resource/shortcodes.php:1042 /includes/resource/shortcodes.php:1069 
+#: /includes/resource/shortcodes.php:1106 /includes/resource/shortcodes.php:1141 
+#: /includes/resource/shortcodes.php:1167 /includes/resource/shortcodes.php:1226 
+#: /includes/resource/shortcodes.php:1329 /includes/resource/shortcodes.php:1359 
+#: /includes/resource/shortcodes.php:1391 /includes/resource/shortcodes.php:1421 
+#: /includes/resource/shortcodes.php:1448 /includes/resource/shortcodes.php:1476 
+#: /includes/resource/shortcodes.php:1522 /includes/resource/shortcodes.php:1553 
+#: /includes/resource/shortcodes.php:1668 /includes/resource/shortcodes.php:1697 
+#: /includes/resource/shortcodes.php:1752 /includes/resource/shortcodes.php:1780 
+#: /includes/resource/shortcodes.php:1815 /includes/resource/shortcodes.php:1873 
+#: /includes/resource/shortcodes.php:1963 /includes/resource/shortcodes.php:2015 
+#: /includes/resource/shortcodes.php:2092 /includes/resource/shortcodes.php:2140 
+#: /includes/resource/shortcodes.php:2169 /includes/resource/shortcodes.php:2196 
+#: /includes/resource/shortcodes.php:2233 
+#: /includes/vafpress/admin/metabox/meta_boxes.php:304 
+#: /includes/vafpress/admin/option/option.php:657 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:22
+msgid "Title"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:254
+msgid "Button Link URl"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:257
+msgid "Enter the button link url"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:282
+msgid "Right Small Banner"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:287 /includes/resource/shortcodes-zo.php:
+#: 363
+msgid "show the mini banner."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:311 /includes/resource/shortcodes-zo.php:
+#: 406
+msgid "Banner Button 1 Status"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:313 /includes/resource/shortcodes-zo.php:
+#: 408
+msgid "active"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:313 /includes/resource/shortcodes-zo.php:
+#: 408
+msgid "none"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:314 /includes/resource/shortcodes-zo.php:
+#: 409
+msgid "show button status."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:329
+msgid "Banner Button Link"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:332
+msgid "Enter the banner2 button link"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:338
+msgid "Banner  Button Text"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:341
+msgid "Banner 2 Button Text"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:347
+msgid "Banner  title"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:350
+msgid "Enter the banner2 title"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:358
+msgid "Mini Banner"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:379
+msgid "Banner Button 1  Link"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:382
+msgid "Enter the button Link"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:388
+msgid "Banner Button 1 Text"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:391
+msgid "Enter the button title"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:439
+msgid "Pretty & PreShop"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:456
+msgid "Find your favorite design and put your personal touch on it before you buy.."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:470
+msgid "Show Service Style 1 in 3 Columns."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:476
+msgid "Do you want to show title on top"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:478 /includes/resource/shortcodes-zo.php:
+#: 487
+msgid "Show"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:479
+msgid "select title if you want to show of top."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:485
+msgid "Show read more button"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:488
+msgid "choose if you want to show read more button."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:496 /includes/resource/shortcodes.php:1524
+msgid "Enter the title."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:502 /includes/resource/shortcodes.php:
+#: 1971 /includes/resource/shortcodes.php:2204
+msgid "Inner Title"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:504
+msgid "Enter the Inner title."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:513 /includes/resource/shortcodes-zo.php:
+#: 580 /includes/resource/shortcodes-zo.php:630 /includes/resource/shortcodes-zo.
+#: php:706 /includes/resource/shortcodes-zo.php:780 /includes/resource/shortcodes-
+#: zo.php:836 /includes/resource/shortcodes-zo.php:908 
+#: /includes/resource/shortcodes-zo.php:957 /includes/resource/shortcodes-zo.php:
+#: 1040 /includes/resource/shortcodes.php:16 /includes/resource/shortcodes.php:
+#: 125 /includes/resource/shortcodes.php:196 /includes/resource/shortcodes.php:
+#: 271 /includes/resource/shortcodes.php:344 /includes/resource/shortcodes.php:
+#: 389 /includes/resource/shortcodes.php:437 /includes/resource/shortcodes.php:
+#: 515 /includes/resource/shortcodes.php:579 /includes/resource/shortcodes.php:
+#: 634 /includes/resource/shortcodes.php:696 /includes/resource/shortcodes.php:
+#: 752 /includes/resource/shortcodes.php:822 /includes/resource/shortcodes.php:
+#: 876 /includes/resource/shortcodes.php:932 /includes/resource/shortcodes.php:
+#: 994 /includes/resource/shortcodes.php:1050 /includes/resource/shortcodes.php:
+#: 1114 /includes/resource/shortcodes.php:1207 /includes/resource/shortcodes.php:
+#: 1429 /includes/resource/shortcodes.php:1742 /includes/resource/shortcodes.php:
+#: 1788 /includes/resource/shortcodes.php:1854 /includes/resource/shortcodes.php:
+#: 1995 /includes/resource/shortcodes.php:2072 /includes/resource/shortcodes.php:
+#: 2149
+msgid "Number"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:515 /includes/resource/shortcodes-zo.php:
+#: 632 /includes/resource/shortcodes-zo.php:708 /includes/resource/shortcodes-zo.
+#: php:782 /includes/resource/shortcodes.php:18 /includes/resource/shortcodes.php:
+#: 439 /includes/resource/shortcodes.php:1116 /includes/resource/shortcodes.php:
+#: 1209 /includes/resource/shortcodes.php:1431 /includes/resource/shortcodes.php:
+#: 1790 /includes/resource/shortcodes.php:1997 /includes/resource/shortcodes.php:
+#: 2074 /includes/resource/shortcodes.php:2151
+msgid "Enter Number of Services to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:525 /includes/resource/shortcodes-zo.php:
+#: 592 /includes/resource/shortcodes-zo.php:657 /includes/resource/shortcodes-zo.
+#: php:717 /includes/resource/shortcodes-zo.php:791 /includes/resource/shortcodes-
+#: zo.php:847 /includes/resource/shortcodes-zo.php:919 
+#: /includes/resource/shortcodes-zo.php:968 /includes/resource/shortcodes.php:35 
+#: /includes/resource/shortcodes.php:136 /includes/resource/shortcodes.php:282 
+#: /includes/resource/shortcodes.php:401 /includes/resource/shortcodes.php:456 
+#: /includes/resource/shortcodes.php:527 /includes/resource/shortcodes.php:590 
+#: /includes/resource/shortcodes.php:645 /includes/resource/shortcodes.php:708 
+#: /includes/resource/shortcodes.php:833 /includes/resource/shortcodes.php:943 
+#: /includes/resource/shortcodes.php:1006 /includes/resource/shortcodes.php:1061 
+#: /includes/resource/shortcodes.php:1133 /includes/resource/shortcodes.php:1218 
+#: /includes/resource/shortcodes.php:1385 /includes/resource/shortcodes.php:1440 
+#: /includes/resource/shortcodes.php:1807 /includes/resource/shortcodes.php:1865 
+#: /includes/resource/shortcodes.php:2007 /includes/resource/shortcodes.php:2084 
+#: /includes/resource/shortcodes.php:2161
+msgid "Choose Category."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:531 /includes/resource/shortcodes-zo.php:
+#: 598 /includes/resource/shortcodes-zo.php:663 /includes/resource/shortcodes-zo.
+#: php:723 /includes/resource/shortcodes-zo.php:797 /includes/resource/shortcodes-
+#: zo.php:853 /includes/resource/shortcodes-zo.php:925 
+#: /includes/resource/shortcodes-zo.php:974 /includes/resource/shortcodes.php:41 
+#: /includes/resource/shortcodes.php:142 /includes/resource/shortcodes.php:288 
+#: /includes/resource/shortcodes.php:407 /includes/resource/shortcodes.php:462 
+#: /includes/resource/shortcodes.php:533 /includes/resource/shortcodes.php:596 
+#: /includes/resource/shortcodes.php:651 /includes/resource/shortcodes.php:714 
+#: /includes/resource/shortcodes.php:839 /includes/resource/shortcodes.php:949 
+#: /includes/resource/shortcodes.php:1012 /includes/resource/shortcodes.php:1067 
+#: /includes/resource/shortcodes.php:1139 /includes/resource/shortcodes.php:1224 
+#: /includes/resource/shortcodes.php:1446 /includes/resource/shortcodes.php:1750 
+#: /includes/resource/shortcodes.php:1813 /includes/resource/shortcodes.php:1871 
+#: /includes/resource/shortcodes.php:2013 /includes/resource/shortcodes.php:2090 
+#: /includes/resource/shortcodes.php:2167
+msgid "Order By"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:533 /includes/resource/shortcodes-zo.php:
+#: 600 /includes/resource/shortcodes-zo.php:665 /includes/resource/shortcodes-zo.
+#: php:725 /includes/resource/shortcodes-zo.php:799 /includes/resource/shortcodes-
+#: zo.php:855 /includes/resource/shortcodes-zo.php:927 
+#: /includes/resource/shortcodes-zo.php:976 /includes/resource/shortcodes.php:43 
+#: /includes/resource/shortcodes.php:144 /includes/resource/shortcodes.php:290 
+#: /includes/resource/shortcodes.php:409 /includes/resource/shortcodes.php:464 
+#: /includes/resource/shortcodes.php:535 /includes/resource/shortcodes.php:598 
+#: /includes/resource/shortcodes.php:653 /includes/resource/shortcodes.php:716 
+#: /includes/resource/shortcodes.php:841 /includes/resource/shortcodes.php:951 
+#: /includes/resource/shortcodes.php:1014 /includes/resource/shortcodes.php:1069 
+#: /includes/resource/shortcodes.php:1141 /includes/resource/shortcodes.php:1226 
+#: /includes/resource/shortcodes.php:1448 /includes/resource/shortcodes.php:1752 
+#: /includes/resource/shortcodes.php:1815 /includes/resource/shortcodes.php:1873 
+#: /includes/resource/shortcodes.php:2015 /includes/resource/shortcodes.php:2092 
+#: /includes/resource/shortcodes.php:2169
+msgid "Date"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:533 /includes/resource/shortcodes-zo.php:
+#: 600 /includes/resource/shortcodes-zo.php:665 /includes/resource/shortcodes-zo.
+#: php:725 /includes/resource/shortcodes-zo.php:799 /includes/resource/shortcodes-
+#: zo.php:855 /includes/resource/shortcodes-zo.php:927 
+#: /includes/resource/shortcodes-zo.php:976 /includes/resource/shortcodes.php:43 
+#: /includes/resource/shortcodes.php:144 /includes/resource/shortcodes.php:290 
+#: /includes/resource/shortcodes.php:409 /includes/resource/shortcodes.php:464 
+#: /includes/resource/shortcodes.php:535 /includes/resource/shortcodes.php:598 
+#: /includes/resource/shortcodes.php:653 /includes/resource/shortcodes.php:716 
+#: /includes/resource/shortcodes.php:841 /includes/resource/shortcodes.php:951 
+#: /includes/resource/shortcodes.php:1014 /includes/resource/shortcodes.php:1069 
+#: /includes/resource/shortcodes.php:1141 /includes/resource/shortcodes.php:1226 
+#: /includes/resource/shortcodes.php:1448 /includes/resource/shortcodes.php:1752 
+#: /includes/resource/shortcodes.php:1815 /includes/resource/shortcodes.php:1873 
+#: /includes/resource/shortcodes.php:2015 /includes/resource/shortcodes.php:2092 
+#: /includes/resource/shortcodes.php:2169 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:15
+msgid "Author"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:533 /includes/resource/shortcodes-zo.php:
+#: 600 /includes/resource/shortcodes-zo.php:665 /includes/resource/shortcodes-zo.
+#: php:725 /includes/resource/shortcodes-zo.php:799 /includes/resource/shortcodes-
+#: zo.php:855 /includes/resource/shortcodes-zo.php:927 
+#: /includes/resource/shortcodes-zo.php:976 /includes/resource/shortcodes.php:43 
+#: /includes/resource/shortcodes.php:144 /includes/resource/shortcodes.php:290 
+#: /includes/resource/shortcodes.php:409 /includes/resource/shortcodes.php:464 
+#: /includes/resource/shortcodes.php:535 /includes/resource/shortcodes.php:598 
+#: /includes/resource/shortcodes.php:653 /includes/resource/shortcodes.php:716 
+#: /includes/resource/shortcodes.php:841 /includes/resource/shortcodes.php:951 
+#: /includes/resource/shortcodes.php:1014 /includes/resource/shortcodes.php:1069 
+#: /includes/resource/shortcodes.php:1141 /includes/resource/shortcodes.php:1226 
+#: /includes/resource/shortcodes.php:1448 /includes/resource/shortcodes.php:1752 
+#: /includes/resource/shortcodes.php:1815 /includes/resource/shortcodes.php:1873 
+#: /includes/resource/shortcodes.php:2015 /includes/resource/shortcodes.php:2092 
+#: /includes/resource/shortcodes.php:2169
+msgid "Comment Count"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:533 /includes/resource/shortcodes-zo.php:
+#: 600 /includes/resource/shortcodes-zo.php:665 /includes/resource/shortcodes-zo.
+#: php:725 /includes/resource/shortcodes-zo.php:799 /includes/resource/shortcodes-
+#: zo.php:855 /includes/resource/shortcodes-zo.php:927 
+#: /includes/resource/shortcodes-zo.php:976 /includes/resource/shortcodes.php:43 
+#: /includes/resource/shortcodes.php:144 /includes/resource/shortcodes.php:290 
+#: /includes/resource/shortcodes.php:409 /includes/resource/shortcodes.php:464 
+#: /includes/resource/shortcodes.php:535 /includes/resource/shortcodes.php:598 
+#: /includes/resource/shortcodes.php:653 /includes/resource/shortcodes.php:716 
+#: /includes/resource/shortcodes.php:841 /includes/resource/shortcodes.php:951 
+#: /includes/resource/shortcodes.php:1014 /includes/resource/shortcodes.php:1069 
+#: /includes/resource/shortcodes.php:1141 /includes/resource/shortcodes.php:1226 
+#: /includes/resource/shortcodes.php:1448 /includes/resource/shortcodes.php:1752 
+#: /includes/resource/shortcodes.php:1815 /includes/resource/shortcodes.php:1873 
+#: /includes/resource/shortcodes.php:2015 /includes/resource/shortcodes.php:2092 
+#: /includes/resource/shortcodes.php:2169
+msgid "Random"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:534 /includes/resource/shortcodes-zo.php:
+#: 544 /includes/resource/shortcodes-zo.php:601 /includes/resource/shortcodes-zo.
+#: php:610 /includes/resource/shortcodes-zo.php:666 /includes/resource/shortcodes-
+#: zo.php:675 /includes/resource/shortcodes-zo.php:726 
+#: /includes/resource/shortcodes-zo.php:735 /includes/resource/shortcodes-zo.php:
+#: 800 /includes/resource/shortcodes-zo.php:809 /includes/resource/shortcodes-zo.
+#: php:856 /includes/resource/shortcodes-zo.php:865 /includes/resource/shortcodes-
+#: zo.php:928 /includes/resource/shortcodes-zo.php:937 
+#: /includes/resource/shortcodes-zo.php:977 /includes/resource/shortcodes-zo.php:
+#: 986 /includes/resource/shortcodes.php:44 /includes/resource/shortcodes.php:53 
+#: /includes/resource/shortcodes.php:145 /includes/resource/shortcodes.php:154 
+#: /includes/resource/shortcodes.php:216 /includes/resource/shortcodes.php:291 
+#: /includes/resource/shortcodes.php:300 /includes/resource/shortcodes.php:410 
+#: /includes/resource/shortcodes.php:419 /includes/resource/shortcodes.php:465 
+#: /includes/resource/shortcodes.php:474 /includes/resource/shortcodes.php:536 
+#: /includes/resource/shortcodes.php:545 /includes/resource/shortcodes.php:599 
+#: /includes/resource/shortcodes.php:608 /includes/resource/shortcodes.php:654 
+#: /includes/resource/shortcodes.php:663 /includes/resource/shortcodes.php:717 
+#: /includes/resource/shortcodes.php:726 /includes/resource/shortcodes.php:842 
+#: /includes/resource/shortcodes.php:851 /includes/resource/shortcodes.php:896 
+#: /includes/resource/shortcodes.php:952 /includes/resource/shortcodes.php:961 
+#: /includes/resource/shortcodes.php:1015 /includes/resource/shortcodes.php:1024 
+#: /includes/resource/shortcodes.php:1070 /includes/resource/shortcodes.php:1079 
+#: /includes/resource/shortcodes.php:1142 /includes/resource/shortcodes.php:1151 
+#: /includes/resource/shortcodes.php:1227 /includes/resource/shortcodes.php:1236 
+#: /includes/resource/shortcodes.php:1449 /includes/resource/shortcodes.php:1459 
+#: /includes/resource/shortcodes.php:1753 /includes/resource/shortcodes.php:1762 
+#: /includes/resource/shortcodes.php:1816 /includes/resource/shortcodes.php:1825 
+#: /includes/resource/shortcodes.php:1874 /includes/resource/shortcodes.php:1883 
+#: /includes/resource/shortcodes.php:2016 /includes/resource/shortcodes.php:2026 
+#: /includes/resource/shortcodes.php:2093 /includes/resource/shortcodes.php:2103 
+#: /includes/resource/shortcodes.php:2170 /includes/resource/shortcodes.php:2180
+msgid "Enter the sorting order."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:541 /includes/resource/shortcodes-zo.php:
+#: 607 /includes/resource/shortcodes-zo.php:672 /includes/resource/shortcodes-zo.
+#: php:732 /includes/resource/shortcodes-zo.php:806 /includes/resource/shortcodes-
+#: zo.php:862 /includes/resource/shortcodes-zo.php:934 
+#: /includes/resource/shortcodes-zo.php:983 /includes/resource/shortcodes.php:50 
+#: /includes/resource/shortcodes.php:151 /includes/resource/shortcodes.php:213 
+#: /includes/resource/shortcodes.php:297 /includes/resource/shortcodes.php:416 
+#: /includes/resource/shortcodes.php:471 /includes/resource/shortcodes.php:542 
+#: /includes/resource/shortcodes.php:605 /includes/resource/shortcodes.php:660 
+#: /includes/resource/shortcodes.php:723 /includes/resource/shortcodes.php:848 
+#: /includes/resource/shortcodes.php:893 /includes/resource/shortcodes.php:958 
+#: /includes/resource/shortcodes.php:1021 /includes/resource/shortcodes.php:1076 
+#: /includes/resource/shortcodes.php:1148 /includes/resource/shortcodes.php:1233 
+#: /includes/resource/shortcodes.php:1456 /includes/resource/shortcodes.php:1759 
+#: /includes/resource/shortcodes.php:1822 /includes/resource/shortcodes.php:1880 
+#: /includes/resource/shortcodes.php:2023 /includes/resource/shortcodes.php:2100 
+#: /includes/resource/shortcodes.php:2177
+msgid "Order"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:543 /includes/resource/shortcodes-zo.php:
+#: 609 /includes/resource/shortcodes-zo.php:674 /includes/resource/shortcodes-zo.
+#: php:734 /includes/resource/shortcodes-zo.php:808 /includes/resource/shortcodes-
+#: zo.php:864 /includes/resource/shortcodes-zo.php:936 
+#: /includes/resource/shortcodes-zo.php:985 /includes/resource/shortcodes.php:52 
+#: /includes/resource/shortcodes.php:153 /includes/resource/shortcodes.php:215 
+#: /includes/resource/shortcodes.php:299 /includes/resource/shortcodes.php:418 
+#: /includes/resource/shortcodes.php:473 /includes/resource/shortcodes.php:544 
+#: /includes/resource/shortcodes.php:607 /includes/resource/shortcodes.php:662 
+#: /includes/resource/shortcodes.php:725 /includes/resource/shortcodes.php:850 
+#: /includes/resource/shortcodes.php:895 /includes/resource/shortcodes.php:960 
+#: /includes/resource/shortcodes.php:1023 /includes/resource/shortcodes.php:1078 
+#: /includes/resource/shortcodes.php:1150 /includes/resource/shortcodes.php:1235 
+#: /includes/resource/shortcodes.php:1458 /includes/resource/shortcodes.php:1761 
+#: /includes/resource/shortcodes.php:1824 /includes/resource/shortcodes.php:1882 
+#: /includes/resource/shortcodes.php:2025 /includes/resource/shortcodes.php:2102 
+#: /includes/resource/shortcodes.php:2179
+msgid "Ascending"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:543 /includes/resource/shortcodes-zo.php:
+#: 609 /includes/resource/shortcodes-zo.php:674 /includes/resource/shortcodes-zo.
+#: php:734 /includes/resource/shortcodes-zo.php:808 /includes/resource/shortcodes-
+#: zo.php:864 /includes/resource/shortcodes-zo.php:936 
+#: /includes/resource/shortcodes-zo.php:985 /includes/resource/shortcodes.php:52 
+#: /includes/resource/shortcodes.php:153 /includes/resource/shortcodes.php:215 
+#: /includes/resource/shortcodes.php:299 /includes/resource/shortcodes.php:418 
+#: /includes/resource/shortcodes.php:473 /includes/resource/shortcodes.php:544 
+#: /includes/resource/shortcodes.php:607 /includes/resource/shortcodes.php:662 
+#: /includes/resource/shortcodes.php:725 /includes/resource/shortcodes.php:850 
+#: /includes/resource/shortcodes.php:895 /includes/resource/shortcodes.php:960 
+#: /includes/resource/shortcodes.php:1023 /includes/resource/shortcodes.php:1078 
+#: /includes/resource/shortcodes.php:1150 /includes/resource/shortcodes.php:1235 
+#: /includes/resource/shortcodes.php:1458 /includes/resource/shortcodes.php:1761 
+#: /includes/resource/shortcodes.php:1824 /includes/resource/shortcodes.php:1882 
+#: /includes/resource/shortcodes.php:2025 /includes/resource/shortcodes.php:2102 
+#: /includes/resource/shortcodes.php:2179
+msgid "Descending"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:557
+msgid "Show Team."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:565 /includes/resource/shortcodes.php:182 
+#: /includes/resource/shortcodes.php:870
+msgid "Enter title."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:571
+msgid "Title Inner"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:573
+msgid "Enter Inner Title ."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:582
+msgid "Enter of Teams to show."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:619
+msgid "Testimonials ( 2 Columns)"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:624
+msgid "Show testimonials Style 1 in 2 Columns."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:640
+msgid "Enter Title."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:646 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:38 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:97
+msgid "Tagline"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:648
+msgid "Enter the tagline."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:687
+msgid "Products ( 2 Columns)"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:692 /includes/resource/shortcodes-zo.php:
+#: 822
+msgid "Show Featured Products ."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:698
+msgid "Featured Posts Title"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:700
+msgid "Enter Feature Post title."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:745
+msgid " Best Sellers"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:750
+msgid "Show best selling products ."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:758
+msgid "Enter the title on the top"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:764
+msgid "Set Old Price of items"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:766
+msgid "Enter the old price"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:772
+msgid "Set the new price of the items"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:774
+msgid "Enter the new price"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:817
+msgid "Middle slider  Products "
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:830
+msgid "Enter Slider title."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:838 /includes/resource/shortcodes.php:127 
+#: /includes/resource/shortcodes.php:273 /includes/resource/shortcodes.php:636 
+#: /includes/resource/shortcodes.php:824 /includes/resource/shortcodes.php:934 
+#: /includes/resource/shortcodes.php:1052
+msgid "Enter Number of Products to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:872
+msgid "Product's Old Price"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:874
+msgid "Enter Product's Old Price."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:880
+msgid "Product's New Price"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:882
+msgid "Enter Product's New Price."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:889
+msgid "From Blog"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:894 /includes/resource/shortcodes-zo.php:
+#: 951
+msgid "Show Posts from the blog."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:900 /includes/resource/shortcodes.php:2042
+msgid "Enter title"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:902
+msgid "Enter blog title."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:910 /includes/resource/shortcodes-zo.php:
+#: 959
+msgid "Enter Number of Blog Posts to show."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:946
+msgid "top-blog-posts"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:995
+msgid "Fun Facts"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:1003
+msgid "Add Fun Facts to your theme."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:1009 /includes/resource/shortcodes.php:87 
+#: /includes/resource/shortcodes.php:783
+msgid "Background Image"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:1011
+msgid "Upload Background Image"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:1018
+msgid "Fact"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:1026
+msgid "Add Fact."
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:1034
+msgid "Enter Title for Skills Section"
+msgstr ""
+
+#: /includes/resource/shortcodes-zo.php:1042
+msgid "Enter Number"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:7 /includes/resource/shortcodes.php:61 
+#: /includes/resource/shortcodes.php:100 /includes/resource/shortcodes.php:172 
+#: /includes/resource/shortcodes.php:246 /includes/resource/shortcodes.php:318 
+#: /includes/resource/shortcodes.php:357 /includes/resource/shortcodes.php:428 
+#: /includes/resource/shortcodes.php:483 /includes/resource/shortcodes.php:554 
+#: /includes/resource/shortcodes.php:617 /includes/resource/shortcodes.php:672 
+#: /includes/resource/shortcodes.php:735 /includes/resource/shortcodes.php:765 
+#: /includes/resource/shortcodes.php:805 /includes/resource/shortcodes.php:860 
+#: /includes/resource/shortcodes.php:915 /includes/resource/shortcodes.php:970 
+#: /includes/resource/shortcodes.php:1033 /includes/resource/shortcodes.php:1097 
+#: /includes/resource/shortcodes.php:1159 /includes/resource/shortcodes.php:1198 
+#: /includes/resource/shortcodes.php:1253 /includes/resource/shortcodes.php:1321 
+#: /includes/resource/shortcodes.php:1348 /includes/resource/shortcodes.php:1371 
+#: /includes/resource/shortcodes.php:1413 /includes/resource/shortcodes.php:1468 
+#: /includes/resource/shortcodes.php:1511 /includes/resource/shortcodes.php:1542 
+#: /includes/resource/shortcodes.php:1614 /includes/resource/shortcodes.php:1659 
+#: /includes/resource/shortcodes.php:1688 /includes/resource/shortcodes.php:1733 
+#: /includes/resource/shortcodes.php:1771
+msgid "Furniture House"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:9 /includes/resource/shortcodes.php:430 
+#: /includes/resource/shortcodes.php:1099 /includes/resource/shortcodes.php:1773 
+#: /includes/resource/shortcodes.php:1957
+msgid "Show Service."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:24 /includes/resource/shortcodes.php:381 
+#: /includes/resource/shortcodes.php:445 /includes/resource/shortcodes.php:507 
+#: /includes/resource/shortcodes.php:688 /includes/resource/shortcodes.php:986 
+#: /includes/resource/shortcodes.php:1122 /includes/resource/shortcodes.php:1796
+msgid "Text Limit"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:26 /includes/resource/shortcodes.php:447 
+#: /includes/resource/shortcodes.php:1124 /includes/resource/shortcodes.php:1798
+msgid "Enter text limit of Services to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:58
+msgid "New Arrival"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:63 /includes/resource/shortcodes.php:767
+msgid "show the New Arrival."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:72 /includes/resource/shortcodes.php:329 
+#: /includes/resource/shortcodes.php:746 /includes/resource/shortcodes.php:1170 
+#: /includes/resource/shortcodes.php:1361
+msgid "Enter the Title"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:78 /includes/resource/shortcodes.php:117 
+#: /includes/resource/shortcodes.php:263 /includes/resource/shortcodes.php:335 
+#: /includes/resource/shortcodes.php:373 /includes/resource/shortcodes.php:499 
+#: /includes/resource/shortcodes.php:571 /includes/resource/shortcodes.php:1676
+msgid "Sub-Title"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:81 /includes/resource/shortcodes.php:338
+msgid "Enter the Sub-Title"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:97
+msgid "Featured Products"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:102 /includes/resource/shortcodes.php:807
+msgid "Show Products 4 column."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:111 /includes/resource/shortcodes.php:119 
+#: /includes/resource/shortcodes.php:257 /includes/resource/shortcodes.php:265 
+#: /includes/resource/shortcodes.php:628 /includes/resource/shortcodes.php:816 
+#: /includes/resource/shortcodes.php:926 /includes/resource/shortcodes.php:1044
+msgid "Enter title to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:160 /includes/resource/shortcodes.php:162 
+#: /includes/resource/shortcodes.php:163 /includes/resource/shortcodes.php:232 
+#: /includes/resource/shortcodes.php:234 /includes/resource/shortcodes.php:235 
+#: /includes/resource/shortcodes.php:306 /includes/resource/shortcodes.php:308 
+#: /includes/resource/shortcodes.php:309 /includes/resource/shortcodes.php:1085 
+#: /includes/resource/shortcodes.php:1087 /includes/resource/shortcodes.php:1088 
+#: /includes/resource/shortcodes.php:1242 /includes/resource/shortcodes.php:1244 
+#: /includes/resource/shortcodes.php:1245 /includes/vafpress/admin/option/option.
+#: php:49
+msgid "Hide Overlay"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:169
+msgid "Featured Categories"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:174 /includes/resource/shortcodes.php:862
+msgid "Show featured Categories."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:180 /includes/resource/shortcodes.php:868 
+#: /includes/resource/shortcodes.php:1846
+msgid "Enter  title"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:188
+msgid "Enter sub-title"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:190
+msgid "Enter sub-title."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:198 /includes/resource/shortcodes.php:878
+msgid "Enter number of categories to show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:204 /includes/resource/shortcodes.php:884
+msgid "Sort By"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:206 /includes/resource/shortcodes.php:886
+msgid "Term ID"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:206 /includes/resource/shortcodes.php:886
+msgid "Slug"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:206 /includes/resource/shortcodes.php:886
+msgid "Post Count"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:206 /includes/resource/shortcodes.php:886
+msgid "Term Group"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:207 /includes/resource/shortcodes.php:887
+msgid "Choose the sorting order."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:222 /includes/resource/shortcodes.php:225 
+#: /includes/resource/shortcodes.php:902 /includes/resource/shortcodes.php:905 
+#: /includes/resource/shortcodes.php:1188
+msgid "Hide Empty Categories"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:224 /includes/resource/shortcodes.php:904
+msgid "Hide Empty cat"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:243
+msgid "Featured Products 2"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:248 /includes/resource/shortcodes.php:917 
+#: /includes/resource/shortcodes.php:1035
+msgid "Show Products 3 column."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:315 /includes/vafpress/admin/option/option.
+#: php:976 /includes/vafpress/admin/option/option.php:984
+msgid "Clients"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:320 /includes/resource/shortcodes.php:737
+msgid "show the Clients logo."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:347 /includes/resource/shortcodes.php:755
+msgid "Enter the Number of Clients."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:359 /includes/resource/shortcodes.php:485 
+#: /includes/resource/shortcodes.php:674 /includes/resource/shortcodes.php:972
+msgid "Show testimonials."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:367 /includes/resource/shortcodes.php:493 
+#: /includes/resource/shortcodes.php:682 /includes/resource/shortcodes.php:980
+msgid "Enter Title of testimonials to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:375 /includes/resource/shortcodes.php:501
+msgid "Enter Sub-Title of testimonials to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:383 /includes/resource/shortcodes.php:509 
+#: /includes/resource/shortcodes.php:690 /includes/resource/shortcodes.php:988
+msgid "Enter text_limit of testimonials to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:391 /includes/resource/shortcodes.php:517 
+#: /includes/resource/shortcodes.php:698 /includes/resource/shortcodes.php:996
+msgid "Enter Number of testimonials to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:425 /includes/resource/shortcodes.php:1952
+msgid "Services 2"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:480
+msgid "Testimonials 2"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:551
+msgid "Our Blog"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:556
+msgid "Show Blog Posts"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:565
+msgid "Enter Title of Posts to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:573
+msgid "Enter Sub-Title of Posts to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:581
+msgid "Enter Number of posts to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:614
+msgid "Featured Products 3"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:619
+msgid "Show Products 1 column."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:669
+msgid "Testimonials 3"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:732
+msgid "Clients 2"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:762
+msgid "New Arrival 2"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:774 /includes/resource/shortcodes.php:1176 
+#: /includes/vafpress/admin/metabox/meta_boxes.php:309
+msgid "Content"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:777
+msgid "Enter the content"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:792
+msgid "Style"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:794
+msgid "Left Style"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:794
+msgid "Right Style"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:795
+msgid "Enter the style"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:802
+msgid "New Products"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:857
+msgid "Featured Categories 2"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:912
+msgid "Products Tabs"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:967
+msgid "Testimonials 4"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1030
+msgid "Featured Products 4"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1094
+msgid "Services 3"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1108
+msgid "Enter Title of Services section to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1161
+msgid "show the Social Profile links"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1179
+msgid "Enter the text"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1185
+msgid "Show social media"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1200
+msgid "Show Catalog."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1250
+msgid "Google Map"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1255
+msgid "Show the map Information"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1261
+msgid "Latitude"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1263 /includes/resource/shortcodes.php:1279
+msgid "Enter the Latitude"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1269
+msgid "Longitude"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1271 /includes/resource/shortcodes.php:1287
+msgid "Enter the Longitude"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1277
+msgid "Marker Latitude"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1285
+msgid "Mark Longitude"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1293
+msgid "Location Title"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1295
+msgid "Enter the location title"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1301
+msgid "Location Address"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1303
+msgid "Enter the Location address to show on marker"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1309
+msgid "Marker Image"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1311
+msgid "Choose the marker image or leave it to use default"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1318
+msgid "Contact Form"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1323
+msgid "Show the contact form"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1331 /includes/resource/shortcodes.php:1423 
+#: /includes/resource/shortcodes.php:1478 /includes/resource/shortcodes.php:1965 
+#: /includes/resource/shortcodes.php:2142 /includes/resource/shortcodes.php:2198 
+#: /includes/resource/shortcodes.php:2235
+msgid "Enter the title or leave empty for none."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1337
+msgid "Reciever Email Address"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1339
+msgid "Enter the email id where email is recieve after form submission."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1345
+msgid "Contact Facts"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1353
+msgid "Add Contact Facts to your theme."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1368
+msgid "Contact Fact"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1376
+msgid "Add Contact Fact."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1382
+msgid "FontAwesom icon"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1393
+msgid "Enter the Title to show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1399
+msgid "Text Content"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1401
+msgid "Enter the Text Content to show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1410
+msgid "Team"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1415
+msgid "Show Teams."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1465
+msgid "Call To Action"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1470
+msgid "Show Call to action."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1484 /includes/resource/shortcodes.php:1705
+msgid "Text"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1486
+msgid "Enter Text to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1492 /includes/resource/shortcodes.php:1593 
+#: /includes/resource/shortcodes.php:1640 /includes/resource/shortcodes.php:1926
+msgid "Button Link"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1494 /includes/resource/shortcodes.php:1642
+msgid "Enter Button Link"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1500 /includes/resource/shortcodes.php:1585 
+#: /includes/resource/shortcodes.php:1648 /includes/resource/shortcodes.php:1917
+msgid "Button Text"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1502 /includes/resource/shortcodes.php:1650
+msgid "Enter Button Text"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1508
+msgid "Pricing Section"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1516
+msgid "Add Number of pricing tables to your theme."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1530
+msgid "SubTitle"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1532
+msgid "Enter the subtitle."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1539
+msgid "Pricing Table"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1547
+msgid "Add Pricing Table."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1555
+msgid "Enter the title to show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1563
+msgid "Enter the price to show"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1569
+msgid "Package Duration"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1571
+msgid "Enter the Package duration to show"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1579
+msgid "Enter the features to show one per line."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1587
+msgid "Enter the button text to show"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1595
+msgid "Enter the button link to show"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1601
+msgid "is Active"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1603
+msgid "is active"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1604
+msgid "is active or not"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1611
+msgid "Services 4"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1616
+msgid "Show services images"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1622
+msgid "Large Image"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1625
+msgid "Enter the Large Image"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1631
+msgid "Small Image"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1634
+msgid "Enter the Small Image"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1656 /includes/resource/shortcodes.php:2031
+msgid "Heading"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1661
+msgid "Show the heading"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1670 /includes/resource/shortcodes.php:1699 
+#: /includes/resource/shortcodes.php:2045
+msgid "Enter the title"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1678
+msgid "Enter the subtitle"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1685
+msgid "Services 5"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1690
+msgid "Show services text"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1707
+msgid "Enter the Text"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1713
+msgid "Read more text"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1715
+msgid "Enter the Read more Text"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1721
+msgid "Read more link"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1723 
+#: /includes/vafpress/admin/metabox/meta_boxes.php:437
+msgid "Enter the Read more Link"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1735
+msgid "Show History."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1744
+msgid "Enter Number of post to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1768
+msgid "Services 6"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1782
+msgid "Enter Title of Services to Show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1835
+msgid "Add Portfolio"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1838 /includes/resource/shortcodes.php:1891 
+#: /includes/resource/shortcodes.php:1955 /includes/resource/shortcodes.php:2034 
+#: /includes/resource/shortcodes.php:2063 /includes/resource/shortcodes.php:2111 
+#: /includes/resource/shortcodes.php:2132 /includes/resource/shortcodes.php:2188 
+#: /includes/resource/shortcodes.php:2225
+msgid "builder"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1840
+msgid "Show Posts from the portfolio."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1848
+msgid "Enter portfolio title."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1856
+msgid "Enter Number of Portfolio Posts to show."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1899
+msgid "Enter Message on the banner"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1902
+msgid "Enter the message"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1908
+msgid "Backgroud Color"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1911
+msgid "Choose background color left empty if you choosed the background image."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1920
+msgid "Enter the button text"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1973 /includes/resource/shortcodes.php:2206
+msgid "Enter the Inner title or leave empty for none."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1983
+msgid "Enter text from title to make colorful"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:1987
+msgid "Enter the title text to make colorful make sure that text exists in title."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2036
+msgid "show the heading."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2051
+msgid "Enter inner titile"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2054
+msgid "Enter the inner title"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2060
+msgid "Services List"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2065
+msgid "Show Services List."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2108
+msgid "About-us Slider"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2113
+msgid "Add images to the slider."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2129
+msgid "Blog Posts Accordion"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2134
+msgid "Show Accordion."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2185
+msgid "About"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2190
+msgid "Show about the site."
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2222
+msgid "Contact Information"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2227
+msgid "Show the contact Information"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2243
+msgid "Enter the address"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2249
+msgid "Phone"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2251
+msgid "Enter the phone"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2259
+msgid "Enter the email"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2265
+msgid "Website URL"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2267
+msgid "Enter the website url"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2273
+msgid "Office Hours"
+msgstr ""
+
+#: /includes/resource/shortcodes.php:2275
+msgid "Enter the office working hours"
+msgstr ""
+
+#: /includes/resource/views/menu_fields.php:2
+msgid "Show Mega Menu Options"
+msgstr ""
+
+#: /includes/resource/views/menu_fields.php:12
+msgid "Submenu Type"
+msgstr ""
+
+#: /includes/resource/views/menu_fields.php:14
+msgid "Standard Dropdown"
+msgstr ""
+
+#: /includes/resource/views/menu_fields.php:14
+msgid "Widgets area"
+msgstr ""
+
+#: /includes/resource/views/menu_fields.php:15
+msgid "Multicolumn Dropdown"
+msgstr ""
+
+#: /includes/resource/views/menu_fields.php:31
+msgid "Columns"
+msgstr ""
+
+#: /includes/resource/views/menu_fields.php:47
+msgid "Select Sidebar"
+msgstr ""
+
+#: /includes/resource/views/menu_fields.php:50 /includes/vafpress/data/sources.
+#: php:571
+msgid "No Sidebar"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/parsers.php:42 
+#: /includes/thirdparty/wordpress-importer/parsers.php:72 
+#: /includes/thirdparty/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/parsers.php:84 
+#: /includes/thirdparty/wordpress-importer/parsers.php:89 
+#: /includes/thirdparty/wordpress-importer/parsers.php:279 
+#: /includes/thirdparty/wordpress-importer/parsers.php:468
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#. Name of the plugin
+msgid "WordPress Importer"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wordpress.org/extend/plugins/wordpress-importer"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Import posts, pages, comments, custom fields, categories, tags and more from "
+"a WordPress export file."
+msgstr ""
+
+#. Author of the plugin
+msgid "wordpressdotorg"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://wordpress.org"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:134 
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:143 
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:194 
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:198 
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:511 
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: /includes/thirdparty/wordpress-importer/wordpress-importer.php:1130
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and "
+"tags</strong> from a WordPress export file."
+msgstr ""
+
+#: /includes/update/update_theme.php:62
+#, php-format
+msgid ""
+"<strong>%s Theme Notice:</strong> Please enter a valid <a href=\"%s\">purchase "
+"code and themeforest username</a> to get automatic theme update"
+msgstr ""
+
+#: /includes/update/update_theme.php:155
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: /includes/update/update_theme.php:160
+msgid "An unknown error occurred"
+msgstr ""
+
+#: /includes/vafpress/bootstrap.php:94
+msgid "Unauthorized function"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:6 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:7
+msgid "SEO Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:14 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:15
+msgid "Enable SEO"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:15
+msgid "Enable / disable seo settings for this post"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:20 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:21
+msgid "Meta Title"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:21
+msgid "Enter meta title or leave it empty to use default title"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:27 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:28
+msgid "Meta Description"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:29
+msgid "Enter meta description"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:34 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:35
+msgid "Meta Keywords"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:36
+msgid "Enter meta keywords"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:43
+msgid "Layout Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:51 
+#: /includes/vafpress/admin/option/option.php:446 
+#: /includes/vafpress/admin/option/option.php:513 
+#: /includes/vafpress/admin/option/option.php:583 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:84 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:138
+msgid "Page Layout"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:52 
+#: /includes/vafpress/admin/option/option.php:447 
+#: /includes/vafpress/admin/option/option.php:514 
+#: /includes/vafpress/admin/option/option.php:584
+msgid "Choose the layout for blog pages"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:56 
+#: /includes/vafpress/admin/option/option.php:452 
+#: /includes/vafpress/admin/option/option.php:519 
+#: /includes/vafpress/admin/option/option.php:589 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:89 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:143
+msgid "Left Sidebar"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:61 
+#: /includes/vafpress/admin/option/option.php:458 
+#: /includes/vafpress/admin/option/option.php:525 
+#: /includes/vafpress/admin/option/option.php:595 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:94 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:148
+msgid "Right Sidebar"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:66 
+#: /includes/vafpress/admin/option/option.php:463 
+#: /includes/vafpress/admin/option/option.php:530 
+#: /includes/vafpress/admin/option/option.php:600 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:99 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:153
+msgid "Full Width"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:85 
+#: /includes/vafpress/admin/option/option.php:67
+msgid "Header Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:94
+msgid "Header Background Image"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:95
+msgid "Choose the header background image"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:100 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:54 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:128
+msgid "Header Title"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:101
+msgid "Enter header title"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:106
+msgid "Info "
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:107
+msgid "Below option will only work on pages and VC page template"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:113
+msgid "Show/Hide breadcrumb on VC page"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:114
+msgid "Only work with VC Page template"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:121
+msgid "Post Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:128
+msgid "Show/Hide top posts"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:129
+msgid "Enable / disable seo Top post"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:136
+msgid "Gallery images"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:141
+msgid "Gallery Image"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:142
+msgid "Choose the Gallery images"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:149 
+#: /includes/vafpress/admin/metabox/meta_boxes.php:338
+msgid "Video Embed Code"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:151
+msgid "If post format is video then this embed code will be used in content"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:156 
+#: /includes/vafpress/admin/metabox/meta_boxes.php:345
+msgid "Audio Embed Code"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:158
+msgid "If post format is AUDIO then this embed code will be used in content"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:163
+msgid "Quote"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:165
+msgid "If post format is quote then the content in this textarea will be displayed"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:176
+msgid "Team Options"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:198
+msgid "Social Icon"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:205 
+#: /includes/vafpress/admin/option/option.php:663
+msgid "Link"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:219
+msgid "Testimonials Options"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:231
+msgid "Testimonial Rating"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:232
+msgid "Choose the Testimonial Rating"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:263
+msgid "Projects Options"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:269
+msgid "Project Detail Section Title"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:271
+msgid "Project Details"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:278
+msgid "Extra Portfolio Details"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:283
+msgid "Label"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:288
+msgid "Value"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:299
+msgid "Services Accordion"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:324
+msgid "Portfolio Images"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:340
+msgid "If Project Type is video then this embed code will be used in content"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:347
+msgid "If Project Type is AUDIO then this embed code will be used in content"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:356
+msgid "Product Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:364 
+#: /includes/vafpress/admin/metabox/meta_boxes.php:369
+msgid "Product Color"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:377
+msgid "Manufacturer"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:382
+msgid "Availability"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:387
+msgid "Product Code"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:394
+msgid "Catalog Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:400
+msgid "PDF file"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:401
+msgid "Add PDF file"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:409
+msgid "Services Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:417
+msgid "Service Icon"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:423
+msgid "Services Image"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:424
+msgid "Add Another image to services"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:429
+msgid "Read More Text"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:430
+msgid "Enter the Read more text"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:431
+msgid "Read more"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:436
+msgid "Read More Button Link"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:438
+msgid "#"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:444
+msgid "Read More Link"
+msgstr ""
+
+#: /includes/vafpress/admin/metabox/meta_boxes.php:445
+msgid "Enter the URL to redirect user for further reading"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:3
+msgid "Furniture House Theme Options"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:8
+msgid "General Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:14
+msgid "general Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:23
+msgid "Purchase Information"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:25
+msgid "To get the auto theme updates provide purchase information"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:31
+msgid "Purchase Code"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:32
+msgid ""
+"To find the purchase code to TF downloads tab click on Download then choose "
+"\"License and Purchase code\""
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:38
+msgid "Themeforest Username"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:39
+msgid "Enter your themeforest username"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:50
+msgid "Hide Overlay in woocommerce pages"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:57
+msgid "Green Color"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:58
+msgid "Choose the font color for green color"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:74
+msgid "Favicon"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:75
+msgid "Upload the favicon, should be 16x16"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:81 
+#: /includes/vafpress/admin/option/option.php:999
+msgid "Logo"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:82
+msgid "Upload the Logo, should be 159x25"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:88
+msgid "Header Style"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:89
+msgid "Choose the the Header Style"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:93
+msgid "Header Style 1"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:97
+msgid "Header Style 2"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:105
+msgid "Show Top Bar"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:106
+msgid "Show or hide top bar"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:112
+msgid "Top bar settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:114
+msgid "This section is used for top bar area"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:123 
+#: /includes/vafpress/admin/option/option.php:124
+msgid "Show Top Bar Left Menu"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:130 
+#: /includes/vafpress/admin/option/option.php:131
+msgid "Show Top Bar Right Menu"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:139 
+#: /includes/vafpress/admin/option/option.php:140
+msgid "Show Header Search Section"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:146
+msgid "Wishlist Page"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:147
+msgid ""
+"choose Wishlist page to show in header area, left it if you don't want to "
+"show wishlist link in header"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:160
+msgid "Compare Page"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:161
+msgid ""
+"choose Compare page to show in header area, left it if you don't want to "
+"show Compare link in header"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:174
+msgid "My Account Page"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:175
+msgid ""
+"choose My account page to show in header area, left it if you don't want to "
+"show wishlist link in header"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:188
+msgid "Checkout Page"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:189
+msgid ""
+"choose Checkout page to show in header area, left it if you don't want to "
+"show wishlist link in header"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:202 
+#: /includes/vafpress/admin/option/option.php:203
+msgid "Show/Hide Shopping cart icon"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:214
+msgid "Choose services"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:216
+msgid "Choose services to show in header"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:233
+msgid "Header CSS"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:234
+msgid "Write your custom css to include in header."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:243
+msgid "Footer Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:250
+msgid "Footer Top"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:251
+msgid "Enable or disable Footer Top"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:257
+msgid "Footer Middle"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:258
+msgid "Enable or disable Footer Middle"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:264
+msgid "Footer Bottom"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:265
+msgid "Enable or disable Footer Bottom"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:271
+msgid "Footer Backgroun Image"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:272
+msgid "Upload the Footer Background Image, should be 1605x563"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:278
+msgid "Copy Right Text"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:279
+msgid "Enter the Copy Right Text"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:285
+msgid "Footer Analytics / Scripts"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:286
+msgid ""
+"In this area you can put Google Analytics Code or any other Script that you "
+"want to be included in the footer before the Body tag."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:296
+msgid "Permalinks Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:308
+msgid "Team Permalink"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:309
+msgid "Enter Slug for Team Post Type."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:315
+msgid "Services Permalink"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:316
+msgid "Enter Slug for Services Post Type."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:322
+msgid "Testimonial Permalink"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:323
+msgid "Enter Permalink for Testimonial Post Type."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:329
+msgid "Catalog Permalink"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:330
+msgid "Enter Permalink for Catalog Post Type."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:336
+msgid "History Permalink"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:337
+msgid "Enter Permalink for History Post Type."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:352
+msgid "Team Category Permalink"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:353
+msgid "Enter Slug for Team Taxonomy."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:360
+msgid "Services Category Permalink"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:361
+msgid "Enter Slug for Services Taxonomy."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:367
+msgid "Testimonial Category Permalink"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:368
+msgid "Enter Permalink for Testimonial Taxonomy."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:374
+msgid "Catalog Category Permalink"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:375
+msgid "Enter Permalink for Catalog Taxonomy."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:381
+msgid "History Category Permalink"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:382
+msgid "Enter Permalink for History Taxonomy."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:399
+msgid "Page Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:406
+msgid "Search Page"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:414
+msgid "Serch page Title"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:415
+msgid "Enter the search page header title;"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:422 
+#: /includes/vafpress/admin/option/option.php:489 
+#: /includes/vafpress/admin/option/option.php:559
+msgid "Header Image"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:423
+msgid "choose the search page header image."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:474
+msgid "Archive Page"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:481
+msgid "Archive page Title"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:482
+msgid "Enter the archive page header title;"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:490
+msgid "choose the archive page header image."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:543
+msgid "Author Page"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:551
+msgid "Author page Title"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:552
+msgid "Enter the Author page header title;"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:560
+msgid "choose the author page header image."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:615
+msgid "Sidebar Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:623 
+#: /includes/vafpress/admin/option/option.php:632
+msgid "Dynamic Sidebar"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:625
+msgid "This section is used for theme color settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:630
+msgid "Sidebar Name"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:631
+msgid "Choose the default color scheme for the theme."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:641
+msgid "Social Media "
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:652
+msgid "This section is used to add Social Media."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:658
+msgid "Enter the title of the social media."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:664
+msgid "Enter the Link for Social Media."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:670
+msgid "Icon"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:671
+msgid "Choose Icon for Social Media."
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:689
+msgid "Font Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:695
+msgid "Heading Font"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:704 
+#: /includes/vafpress/admin/option/option.php:931
+msgid "Use Custom Font"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:705 
+#: /includes/vafpress/admin/option/option.php:932
+msgid "Use custom font or not"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:710
+msgid "H1 Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:712
+msgid "heading 1 font settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:720 
+#: /includes/vafpress/admin/option/option.php:755 
+#: /includes/vafpress/admin/option/option.php:789 
+#: /includes/vafpress/admin/option/option.php:825 
+#: /includes/vafpress/admin/option/option.php:861 
+#: /includes/vafpress/admin/option/option.php:897 
+#: /includes/vafpress/admin/option/option.php:948
+msgid "Font Family"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:722
+msgid "Select the font family to use for h1"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:737 
+#: /includes/vafpress/admin/option/option.php:770 
+#: /includes/vafpress/admin/option/option.php:805 
+#: /includes/vafpress/admin/option/option.php:841 
+#: /includes/vafpress/admin/option/option.php:877 
+#: /includes/vafpress/admin/option/option.php:913 
+#: /includes/vafpress/admin/option/option.php:965
+msgid "Font Color"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:738 
+#: /includes/vafpress/admin/option/option.php:771
+msgid "Choose the font color for heading h1"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:745
+msgid "H2 Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:747
+msgid "heading h2 font settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:757
+msgid "Select the font family to use for h2"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:778
+msgid "H3 Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:780
+msgid "heading h3 font settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:791
+msgid "Select the font family to use for h3"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:806
+msgid "Choose the font color for heading h3"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:814
+msgid "H4 Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:816
+msgid "heading h4 font settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:827
+msgid "Select the font family to use for h4"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:842
+msgid "Choose the font color for heading h4"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:850
+msgid "H5 Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:852
+msgid "heading h5 font settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:863
+msgid "Select the font family to use for h5"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:878
+msgid "Choose the font color for heading h5"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:886
+msgid "H6 Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:888
+msgid "heading h6 font settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:899
+msgid "Select the font family to use for h6"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:914
+msgid "Choose the font color for heading h6"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:924
+msgid "Body Font"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:937
+msgid "Body Font Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:939
+msgid "body font settings"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:950
+msgid "Select the font family to use for body"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:966
+msgid "Choose the font color for heading body"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:986
+msgid "Add as many clients as you want"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:992
+msgid "Client Link"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:993
+msgid "Enter the client Link"
+msgstr ""
+
+#: /includes/vafpress/admin/option/option.php:1000
+msgid "choose the client logo."
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:16
+msgid "Enter the Author name"
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:23 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:39 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:98
+msgid "Wordpress tinyMCE editor."
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:31 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:90
+msgid "Title Link"
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:32
+msgid "Enter the Title Link"
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:48
+msgid "Image for the section"
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:76
+msgid "Small Title"
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:77 
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:84
+msgid "Enter title or leave blank if don\\'t want to show title."
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:83
+msgid "Main Title"
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes1.php:91
+msgid "Enter Title Link"
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes2.php:9
+msgid "Row"
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes2.php:14
+msgid "Column"
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes2.php:20
+msgid "Grid"
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes2.php:28
+msgid "Offset"
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes2.php:37
+msgid "Inner Spacer"
+msgstr ""
+
+#: /includes/vafpress/admin/shortcode_generator/shortcodes2.php:43
+msgid "Size"
+msgstr ""
+
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:46 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:120
+msgid "Post Category Settings"
+msgstr ""
+
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:59 
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:133
+msgid "Header image"
+msgstr ""
+
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:64
+msgid "Page View"
+msgstr ""
+
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:69
+msgid "Grid View"
+msgstr ""
+
+#: /includes/vafpress/admin/taxonomy/taxonomy.php:74
+msgid "List View"
+msgstr ""
+
+#: /includes/vafpress/classes/metabox.php:35 /includes/vp_new/taxonomy.php:36
+msgid "[Development Mode] "
+msgstr ""
+
+#: /includes/vafpress/classes/metabox.php:586 
+#: /includes/vafpress/classes/metabox/alchemy.php:515 /includes/vp_new/taxonomy.
+#: php:591
+msgid "Add More"
+msgstr ""
+
+#: /includes/vafpress/classes/option.php:55 /includes/vafpress/classes/option.php:
+#: 56
+msgid "Vafpress Options"
+msgstr ""
+
+#: /includes/vafpress/classes/option.php:62
+msgid "Option Key is required"
+msgstr ""
+
+#: /includes/vafpress/classes/option.php:64
+msgid "Template Array/File is required"
+msgstr ""
+
+#: /includes/vafpress/classes/option.php:66
+msgid "Page Slug is required"
+msgstr ""
+
+#: /includes/vafpress/classes/option.php:168
+msgid "Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: /includes/vafpress/classes/option.php:298
+msgid "Can not be empty"
+msgstr ""
+
+#: /includes/vafpress/classes/option.php:323
+msgid "Invalid data"
+msgstr ""
+
+#: /includes/vafpress/classes/option.php:386
+msgid "Unverified Access."
+msgstr ""
+
+#: /includes/vafpress/classes/option.php:452
+msgid "Invalid template supplied"
+msgstr ""
+
+#: /includes/vafpress/classes/option.php:465
+msgid "Utility"
+msgstr ""
+
+#: /includes/vafpress/classes/option.php:471 
+#: /includes/vafpress/views/option/restore.php:40 
+#: /includes/vp_new/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: /includes/vafpress/classes/option.php:480
+msgid "Export/Import"
+msgstr ""
+
+#: /includes/vafpress/classes/shortcodegenerator.php:259
+msgid "insert"
+msgstr ""
+
+#: /includes/vafpress/classes/shortcodegenerator.php:260
+msgid "cancel"
+msgstr ""
+
+#: /includes/vafpress/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: /includes/vafpress/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: /includes/vafpress/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: /includes/vafpress/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: /includes/vafpress/views/control/upload.php:5 
+#: /includes/vp_new/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: /includes/vafpress/views/option/impexp.php:4 
+#: /includes/vafpress/views/option/impexp.php:14 
+#: /includes/vp_new/views/option/impexp.php:4 
+#: /includes/vp_new/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: /includes/vafpress/views/option/impexp.php:7 
+#: /includes/vp_new/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: /includes/vafpress/views/option/impexp.php:27 
+#: /includes/vafpress/views/option/impexp.php:37 
+#: /includes/vp_new/views/option/impexp.php:27 
+#: /includes/vp_new/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: /includes/vafpress/views/option/impexp.php:30 
+#: /includes/vp_new/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: /includes/vafpress/views/option/restore.php:4 
+#: /includes/vafpress/views/option/restore.php:14
+msgid "Import Demo Settings"
+msgstr ""
+
+#: /includes/vafpress/views/option/restore.php:7
+msgid ""
+"Demo settings will import \"theme options\", \"widgets\", \"revolution slider\" "
+"and \"visual composer templates\""
+msgstr ""
+
+#: /includes/vafpress/views/option/restore.php:20 
+#: /includes/vafpress/views/option/restore.php:41 
+#: /includes/vp_new/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone"
+msgstr ""
+
+#: /includes/vafpress/views/option/restore.php:31 
+#: /includes/vp_new/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: /includes/vafpress/views/option/restore.php:34 
+#: /includes/vp_new/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: /includes/vafpress/views/option/set.php:69 /includes/vafpress/views/option/set.
+#: php:84 /includes/vp_new/views/option/set.php:69 
+#: /includes/vp_new/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: /includes/vafpress/views/option/set.php:70 /includes/vafpress/views/option/set.
+#: php:85 /includes/vp_new/views/option/set.php:70 
+#: /includes/vp_new/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: /includes/vafpress/views/option/set.php:93 /includes/vp_new/views/option/set.
+#: php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+
+#: /includes/vp_new/classes/alchemy.php:1029
+msgid "Add More "
+msgstr ""

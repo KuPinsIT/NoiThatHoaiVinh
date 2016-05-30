@@ -1,0 +1,1424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Preshop v1.0.0\n"
+"POT-Creation-Date: 2015-01-10 14:22+0500\n"
+"PO-Revision-Date: 2015-01-10 14:27+0500\n"
+"Last-Translator: Shahbaz Ahmed <support@wow-themes.com>\n"
+"Language-Team: Wow Themes <support@wow-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\preshop\\wp-content\\themes"
+"\\preshop\n"
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/404.php:19
+msgid "Not Found "
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/404.php:20
+msgid ""
+"Look like something went wrong! The page you were looking for is not here. "
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/404.php:21
+msgid "BACK TOP HOME"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/archive.php:44
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/index.php:51
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/single.php:65
+msgid "Read more"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/author.php:36
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/single.php:120
+msgid "All Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/author.php:38
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/single.php:122
+msgid "Contact Me"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-audio.php:13
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-gallery.php:12
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-minimal.php:12
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-quote.php:14
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-video.php:13
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog.php:8
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/sidebar.php:8
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/single.php:99
+msgid "by : "
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-audio.php:14
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-gallery.php:13
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-minimal.php:13
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-video.php:14
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog.php:9
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/sidebar.php:9
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/single.php:100
+msgid "in : "
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-audio.php:23
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-gallery.php:35
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-minimal.php:18
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-video.php:27
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog.php:18
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/top-blog-posts.php:31
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/sidebar.php:18
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-quote.php:15
+msgid "IN : "
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/blog-quote.php:20
+msgid "Carmindy Beauty"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/category.php:24
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/comments.php:22
+msgid "Comments - A Great Paint for Your Hair"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/footer-six.php:7
+msgid "GET IN TOUCH"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/footer-six.php:9
+msgid ""
+"If you would like to discuss a digital project with one of our team, drop us "
+"a line on <br>\n"
+"            +0945 5678 2345 or email support@Jollythemes.com"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:65
+msgid "Main Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:67
+msgid "Footer Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:102
+msgid "Default Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:106
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:227
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:122
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:126
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:146
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:166
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:187
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:207
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:142
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:162
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:183
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:203
+msgid "Footer Sidebar 5"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/functions.php:223
+msgid "Blog Listing"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/header.php:80
+msgid "Loading "
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/header.php:82
+msgid "PreShop."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-five.php:16
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-four.php:16
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-normal.php:15
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-one.php:18
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-two.php:16
+msgid "Home"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-five.php:18
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-four.php:18
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-normal.php:17
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-one.php:20
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-two.php:18
+msgid "Account"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-five.php:21
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-four.php:21
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-normal.php:20
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-one.php:23
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-two.php:21
+msgid "Shopping cart"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-five.php:24
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-four.php:24
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-normal.php:23
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-one.php:26
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-two.php:24
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/mini-cart.php:66
+msgid "Checkout"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-five.php:30
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-four.php:30
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-normal.php:29
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-one.php:97
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-three.php:60
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-two.php:96
+msgid "Cart: "
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-five.php:30
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-four.php:30
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-normal.php:29
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-one.php:97
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-three.php:60
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-two.php:96
+#, php-format
+msgid "%d item "
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-five.php:38
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-four.php:38
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-normal.php:37
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-one.php:105
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-three.php:68
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-two.php:104
+msgid "There is no item in your cart"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-one.php:31
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-two.php:29
+msgid "Language"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-three.php:25
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-two.php:61
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/login_form.php:21
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-three.php:26
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-two.php:62
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/login_form.php:27
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/register_form.php:28
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/global/form-login.php:26
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-login.php:38
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-three.php:30
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/header/header-two.php:66
+msgid "LOGIN"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/contact.php:23
+msgid "Your Name"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/contact.php:24
+msgid "Your name"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/contact.php:27
+msgid "Website"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/contact.php:28
+msgid "Your website"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/contact.php:32
+msgid "Your Email"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/contact.php:33
+msgid "Your email"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/contact.php:36
+msgid "Purpose of Viste"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/contact.php:37
+msgid "Purpose of visit?"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/contact.php:41
+msgid "Write your feedback here..."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/contact.php:42
+msgid "Message goes here..."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/contact.php:45
+msgid "Send Message"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/from-blog.php:42
+msgid " COMMENTS"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/from-blog.php:43
+msgid " BY "
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/login_form.php:33
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/global/form-login.php:38
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-login.php:48
+msgid "Remember me"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/login_form.php:53
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/register_form.php:56
+msgid "Logout"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/register_form.php:19
+msgid "First Name"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/register_form.php:22
+msgid "Last Name"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/register_form.php:25
+msgid "Email"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/shortcodes/register_form.php:31
+msgid "Re-enter Password"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/wc_cart.php:32
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart.php:104
+msgid "Remove this item"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/wc_cart.php:44
+msgid "Sub-Total:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/wc_cart.php:52
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/thankyou.php:46
+msgid "Total:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/includes/modules/wc_cart.php:59
+msgid "CHECKOUT"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/search.php:74
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/searchform.php:5
+msgid "Search for stories & items"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/searchform.php:7
+msgid "GO"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/single.php:113
+msgid "Pages: "
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/tag.php:71
+msgid "Sorry, but nothing found on this page. Perhaps search may help you."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/tpl-wishlist.php:62
+msgid "PRODUCT"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/tpl-wishlist.php:63
+msgid "PRICE"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/tpl-wishlist.php:64
+msgid "ACTION"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/tpl-wishlist.php:65
+msgid "DELETE"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/tpl-wishlist.php:83
+msgid "Delete"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/tpl-wishlist.php:95
+#, php-format
+msgid ""
+"To view this page sign in at <a href=\"%s\" title=\"Account Page\">Account "
+"Page</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-shipping.php:18
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-shipping.php:72
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-totals.php:17
+msgid "Cart Totals"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-totals.php:23
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/review-order.php:51
+msgid "Cart Subtotal"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-totals.php:77
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/review-order.php:105
+msgid "Order Total"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-totals.php:89
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart-totals.php:92
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart.php:30
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-pay.php:17
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/review-order.php:18
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/admin-new-order.php:22
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-completed-order.php:23
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-invoice.php:27
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-note.php:27
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-processing-order.php:23
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/order-details.php:20
+msgid "Product"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart.php:31
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/admin-new-order.php:24
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-completed-order.php:25
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-invoice.php:29
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-note.php:29
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-processing-order.php:25
+msgid "Price"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart.php:32
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/admin-new-order.php:23
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-completed-order.php:24
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-invoice.php:28
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-note.php:28
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-processing-order.php:24
+msgid "Quantity"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart.php:33
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/review-order.php:19
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-orders.php:35
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/order-details.php:21
+msgid "Total"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart.php:69
+msgid "Available on backorder"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart.php:121
+msgid "Coupon"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart.php:121
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-coupon.php:23
+msgid "Coupon code"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart.php:121
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-coupon.php:27
+msgid "Apply Coupon"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart.php:128
+msgid "Update Cart"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cart.php:128
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/mini-cart.php:52
+msgid "No products in the cart."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/mini-cart.php:60
+msgid "Subtotal"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/mini-cart.php:65
+msgid "View Cart"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/shipping-calculator.php:47
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/shipping-calculator.php:53
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/cart-errors.php:20
+msgid "Return To Cart"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-billing.php:21
+msgid "Billing Details"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-billing.php:40
+msgid "Create an account?"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-billing.php:51
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-checkout.php:48
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-checkout.php:80
+msgid "Your order"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-coupon.php:16
+msgid "Have a coupon?"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-coupon.php:16
+msgid "Click here to enter your code"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-pay.php:18
+msgid "Qty"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-pay.php:19
+msgid "Totals"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-pay.php:52
+msgid "Payment"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-pay.php:77
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-pay.php:87
+msgid "Pay for order"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/form-shipping.php:57
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/review-order.php:150
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/review-order.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/review-order.php:163
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/review-order.php:163
+msgid "Update totals"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/review-order.php:170
+msgid "Place order"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/review-order.php:179
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/thankyou.php:16
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/thankyou.php:20
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/thankyou.php:26
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/thankyou.php:28
+msgid "My Account"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/thankyou.php:34
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/thankyou.php:65
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/thankyou.php:38
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-completed-order.php:18
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-invoice.php:22
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-note.php:22
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-processing-order.php:18
+msgid "Order:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/thankyou.php:42
+msgid "Date:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/checkout/thankyou.php:51
+msgid "Payment method:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/content-single-product.php:62
+msgid "Add to Wishlist"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/admin-new-order.php:13
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/admin-new-order.php:13
+#, php-format
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/admin-new-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/admin-new-order.php:50
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-completed-order.php:51
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-note.php:55
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-processing-order.php:51
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/admin-new-order.php:39
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/order-details.php:97
+msgid "Customer details"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/admin-new-order.php:53
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-completed-order.php:54
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-note.php:58
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-processing-order.php:54
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/admin-new-order.php:42
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-completed-order.php:41
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-note.php:49
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-processing-order.php:41
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/order-details.php:101
+msgid "Email:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/admin-new-order.php:56
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-completed-order.php:57
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-note.php:61
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-processing-order.php:57
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/admin-new-order.php:45
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-completed-order.php:44
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-note.php:52
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-processing-order.php:44
+msgid "Tel:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-completed-order.php:14
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-completed-order.php:13
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-invoice.php:16
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-invoice.php:14
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-invoice.php:16
+msgid "pay"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-new-account.php:14
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-new-account.php:13
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-new-account.php:18
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-new-account.php:22
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-new-account.php:18
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-note.php:14
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-note.php:13
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-note.php:18
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-note.php:21
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-processing-order.php:14
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-processing-order.php:13
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-reset-password.php:14
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-reset-password.php:13
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-reset-password.php:15
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-reset-password.php:15
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-reset-password.php:16
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-reset-password.php:16
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-reset-password.php:17
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-reset-password.php:17
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/customer-reset-password.php:20
+msgid "Click here to reset your password"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/email-addresses.php:20
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/email-addresses.php:14
+msgid "Billing address"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/email-addresses.php:30
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/email-addresses.php:19
+msgid "Shipping address"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/email-order-items.php:23
+msgid "Product Image"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/email-order-items.php:44
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/email-order-items.php:44
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/email-order-items.php:46
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/email-order-items.php:46
+msgid "Download"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/admin-new-order.php:19
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-completed-order.php:19
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-invoice.php:20
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-note.php:27
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-processing-order.php:19
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/admin-new-order.php:20
+#, php-format
+msgid "Order link: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/admin-new-order.php:21
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-completed-order.php:20
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-invoice.php:21
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-note.php:28
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-processing-order.php:20
+#, php-format
+msgid "Order date: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/admin-new-order.php:21
+msgid "jS F Y"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-completed-order.php:38
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-note.php:46
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-processing-order.php:38
+msgid "Your details"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/customer-new-account.php:16
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/email-order-items.php:30
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/emails/plain/email-order-items.php:33
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/global/breadcrumb.php:72
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/global/breadcrumb.php:100
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/global/breadcrumb.php:202
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/global/breadcrumb.php:156
+msgid "Error 404"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/global/breadcrumb.php:206
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/global/breadcrumb.php:211
+msgid "Author:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/global/breadcrumb.php:216
+msgid "Page"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/global/form-login.php:22
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-lost-password.php:23
+msgid "Username or email"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/global/form-login.php:35
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-login.php:27
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-login.php:46
+msgid "Login"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/global/form-login.php:42
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-login.php:52
+msgid "Lost your password?"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/loop/result-count.php:29
+msgid "Showing the single result"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/loop/result-count.php:33
+#, php-format
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/loop/sale-flash.php:16
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-edit-account.php:22
+msgid "First name"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-edit-account.php:26
+msgid "Last name"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-edit-account.php:30
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-login.php:81
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:66
+msgid "Email address"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-edit-account.php:35
+msgid "Password Change"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-edit-account.php:38
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-edit-account.php:42
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-edit-account.php:46
+msgid "Confirm New Password"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-edit-account.php:56
+msgid "Save changes"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-edit-address.php:16
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-address.php:19
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-address.php:25
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/order-details.php:118
+msgid "Billing Address"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-edit-address.php:16
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-address.php:20
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/order-details.php:133
+msgid "Shipping Address"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-edit-address.php:44
+msgid "Save Address"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-login.php:65
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-login.php:102
+msgid "Register"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-lost-password.php:21
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-lost-password.php:27
+msgid "Enter a new password below."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-lost-password.php:30
+msgid "New password"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-lost-password.php:34
+msgid "Re-enter new password"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-lost-password.php:45
+msgid "Reset Password"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/form-lost-password.php:45
+msgid "Save"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-account.php:20
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-account.php:25
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-address.php:46
+msgid "Edit"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-address.php:65
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-downloads.php:20
+msgid "Available downloads"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-downloads.php:29
+#, php-format
+msgid "%s download remaining"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-orders.php:59
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-orders.php:75
+msgid "Cancel"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/my-orders.php:81
+msgid "View"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/view-order.php:19
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/view-order.php:23
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/tracking.php:23
+msgid "Order Updates"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/myaccount/view-order.php:29
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/tracking.php:29
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/order-details.php:15
+msgid "Order Details"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/order-details.php:54
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/order-details.php:102
+msgid "Telephone:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/order-details.php:122
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/order-details.php:137
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/tracking.php:12
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/tracking.php:12
+msgid "ago"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/tracking.php:14
+msgid "and was completed"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/order/tracking.php:14
+msgid " ago"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:22
+#, php-format
+msgid "%s review for %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:24
+msgid "Reviews"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:46
+msgid "There are no reviews yet."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:60
+msgid "Leave a feedback"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:68
+msgid "Send Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:74
+msgid "Your Rating"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:75
+msgid "Rate&hellip;"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:76
+msgid "Perfect"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:77
+msgid "Good"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:78
+msgid "Average"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:79
+msgid "Not that bad"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:80
+msgid "Very Poor"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:84
+msgid "Enter your comment here..."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product-reviews.php:93
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/meta.php:27
+msgid "Category:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/rating.php:22
+#, php-format
+msgid "%s customer review"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/rating.php:25
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/rating.php:27
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/review.php:30
+msgid "out of 5"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/related.php:42
+msgid "Related Items"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/review.php:29
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/review.php:38
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: D:\xampp\htdocs\preshop\wp-content\themes\preshop/woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
